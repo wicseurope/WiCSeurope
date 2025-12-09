@@ -1,0 +1,14 @@
+title: "WiCSEurope+ webpage"
+description: "WiCSE+ website"
+theme: minima
+
+authors: "Matilde Ellen Simonetti & Marta Rivera Zurita"
+lang: "en"
+
+header_pages:
+- index.md
+- leadershipteam.md
+- advisoryboard.md
+- traineeboard.md
+- events.md
+- joinus.md
