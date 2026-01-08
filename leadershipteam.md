@@ -53,7 +53,7 @@ title: "Leadership Team"
       <p class="leader-affil">University of Freiburg, Germany </p>
     </a>
   </div>
-   <div class="leader-card">
+<div class="leader-card">
     <a class="leader-link"
        href="{{ '/leadershipteam-bios/MJ-Maraver.html' | relative_url }}">
       <img
@@ -67,7 +67,7 @@ title: "Leadership Team"
     </a>
   </div>
 
-   <div class="leader-card">
+<div class="leader-card">
     <a class="leader-link"
        href="{{ '/leadershipteam-bios/Marta-Rivera.html' | relative_url }}">
       <img
@@ -81,6 +81,33 @@ title: "Leadership Team"
     </a>
   </div>
   
+<div class="leader-card">
+    <a class="leader-link"
+       href="{{ '/leadershipteam-bios/Marta-Rivera.html' | relative_url }}">
+      <img
+        src="{{ '/leadershipteam-images/MartaRivera.jpg' | relative_url }}"
+        alt="Marta Rivera"
+        class="leader-card-photo"
+        loading="lazy">
+      <h2 class="leader-name">Marta Rivera </h2>
+      <p class="leader-pronouns">She/Her</p>
+      <p class="leader-affil">University of The Balearic Islands, Spain </p>
+    </a>
+  </div>
+
+<div class="leader-card">
+    <a class="leader-link"
+       href="{{ '/leadershipteam-bios/Ronja-Mueller.html' | relative_url }}">
+      <img
+        src="{{ '/leadershipteam-images/RonjaMueller.JPG' | relative_url }}"
+        alt="Rachelle Ho"
+        class="leader-card-photo"
+        loading="lazy">
+      <h2 class="leader-name">Ronja Mueller</h2>
+      <p class="leader-pronouns">N/A </p>
+      <p class="leader-affil">Medical School Hamburg, Germany</p>
+    </a>
+  </div>
 
 </div>
 
