@@ -9,10 +9,23 @@ title: "Ronja Mueller"
 <p><strong>Affiliation:</strong> Medical School Hamburg, Germany  </p>
 
 <p>
-  <img src="{{ '/leadershipteam-images/RonjaMueller.JPG' | relative_url }}" 
-       alt="Ronja Mueller" 
-       style="max-width: 220px; border-radius: 50%; margin: 1rem 0;">
+  <img
+    src="{{ '/leadershipteam-images/RonjaMueller.JPG' | relative_url }}"
+    alt="Ronja Mueller"
+    class="bio-photo"
+    loading="lazy">
 </p>
+
+<style>
+.bio-photo{
+  width: 220px;
+  height: 220px;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 50%;
+  margin: 1rem 0;
+}
+</style>
 
 <p>
   Ronja Mueller is a postdoctoral researcher in cognitive psychology at the ICAN Institute for Cognitive and Affective Neuroscience (ICAN) 
