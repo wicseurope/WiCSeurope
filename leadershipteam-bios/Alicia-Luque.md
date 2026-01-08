@@ -8,7 +8,7 @@ title: "Alicia Luque"
 <p><strong>Affiliation:</strong> Nebrija University, Spain  </p>
 
 <p>
-  <img src="{{ '/leadershipteam-images/Alicia Luque.jpg' | relative_url }}" 
+  <img src="{{ '/leadershipteam-images/AliciaLuque.jpg' | relative_url }}" 
        alt="Alicia Luque" 
        style="max-width: 220px; border-radius: 50%; margin: 1rem 0;">
 </p>
