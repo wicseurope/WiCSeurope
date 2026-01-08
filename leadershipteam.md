@@ -14,7 +14,7 @@ title: "Leadership Team"
 
   <div class="leader-card">
     <a class="leader-link"
-       href="{{ '/leadershipteam-bios/Rachelle-Ho/' | relative_url }}">
+       href="{{ '/leadershipteam-bios/Rachelle-Ho.html' | relative_url }}">
       <img
         src="{{ '/leadershipteam-images/RachelleHo.jpeg' | relative_url }}"
         alt="Rachelle Ho"
@@ -28,7 +28,7 @@ title: "Leadership Team"
 
   <div class="leader-card">
     <a class="leader-link"
-       href="{{ '/leadershipteam-bios/Alicia-Luque/' | relative_url }}">
+       href="{{ '/leadershipteam-bios/Alicia-Luque.html' | relative_url }}">
       <img
         src="{{ '/leadershipteam-images/AliciaLuque.jpg' | relative_url }}"
         alt="Alicia Luque"
@@ -42,7 +42,7 @@ title: "Leadership Team"
 
  <div class="leader-card">
     <a class="leader-link"
-       href="{{ '/leadershipteam-bios/Andrea-Kiesel/' | relative_url }}">
+       href="{{ '/leadershipteam-bios/Andrea-Kiesel.html' | relative_url }}">
       <img
         src="{{ '/leadershipteam-images/AndreaKiesel.png' | relative_url }}"
         alt="Andrea Kiesel"
