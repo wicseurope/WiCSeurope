@@ -5,7 +5,7 @@
 <p><strong>Affiliation:</strong> University of Freiburg, Germany </p>
 
 <p>
-  <img src="{{ '/leadershipteam-images/AndreaKiesel.jpg' | relative_url }}" 
+  <img src="{{ '/leadershipteam-images/AndreaKiesel.png' | relative_url }}" 
        alt="AndreaKiesel" 
        style="max-width: 220px; border-radius: 50%; margin: 1rem 0;">
 </p>
