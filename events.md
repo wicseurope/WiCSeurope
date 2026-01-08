@@ -1,1 +1,162 @@
+---
+layout: default
+title: "Events"
+---
 
+<h1>WiCS-Europe Events</h1>
+
+<p>
+  WiCS-Europe organizes events dedicated to equity, diversity, inclusion, and professional
+  development in cognitive science.
+</p>
+
+<h2>Next events</h2>
+
+<div class="events-grid">
+
+  <div class="event-card">
+    <div class="event-card-inner">
+      <h2 class="event-title">Next WiCS-Europe event</h2>
+      <p class="event-subtitle">To be announced</p>
+      <p class="event-meta">
+        Details will be shared soon.<br>
+        Stay tuned!
+      </p>
+    </div>
+  </div>
+
+</div>
+
+<h2 style="margin-top: 3rem;">Past events</h2>
+
+<div class="events-grid">
+
+  <div class="event-card">
+    <a class="event-link"
+       href="{{ '/pastevents-summary/wics-europe-escop2025.html' | relative_url }}">
+      <!-- future image goes here -->
+      <!-- <img src="{{ '/pastevents-photos/escop2025.jpg' | relative_url }}" class="event-photo"> -->
+      <h2 class="event-title">WiCS+Europe at ESCOP2025</h2>
+      <p class="event-subtitle">Creating inclusive and safe academic spaces</p>
+      <p class="event-meta">Sheffield, UK · 2 September 2025</p>
+    </a>
+  </div>
+
+  <div class="event-card">
+    <a class="event-link"
+       href="{{ '/pastevents-summary/addressing-gender-based-violence.html' | relative_url }}">
+      <h2 class="event-title">Addressing gender-based violence in academia</h2>
+      <p class="event-subtitle">Online seminar</p>
+      <p class="event-meta">10 March 2025</p>
+    </a>
+  </div>
+
+  <div class="event-card">
+    <a class="event-link"
+       href="{{ '/pastevents-summary/inclusive-and-anti-racist-academia.html' | relative_url }}">
+      <h2 class="event-title">Creating an Inclusive and Anti-racist Academia</h2>
+      <p class="event-subtitle">Online panel discussion</p>
+      <p class="event-meta">28 October 2024</p>
+    </a>
+  </div>
+
+  <div class="event-card">
+    <a class="event-link"
+       href="{{ '/pastevents-summary/women-leaders-edi.html' | relative_url }}">
+      <h2 class="event-title">How to Promote Equality?</h2>
+      <p class="event-subtitle">Celebrating Women Leaders in EDI</p>
+      <p class="event-meta">March 2024 · Online</p>
+    </a>
+  </div>
+
+  <div class="event-card">
+    <a class="event-link"
+       href="{{ '/pastevents-summary/transitions-career-paths-escop2023.html' | relative_url }}">
+      <h2 class="event-title">Transitions in Career Paths</h2>
+      <p class="event-subtitle">ESCOP 2023 Panel &amp; Speed Mentoring</p>
+      <p class="event-meta">Porto, Portugal · 6 September 2023</p>
+    </a>
+  </div>
+
+</div>
+
+<style>
+/* GRID */
+.events-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.5rem;
+  margin-top: 1.5rem;
+}
+
+/* Tablet */
+@media (max-width: 900px) {
+  .events-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+/* Mobile */
+@media (max-width: 560px) {
+  .events-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* CARD */
+.event-card {
+  border-radius: 14px;
+  background: #ffffff;
+  padding: 1.2rem 1rem;
+  text-align: center;
+
+  box-shadow:
+    0 4px 12px rgba(0, 102, 204, 0.15),
+    0 0 0 1px rgba(0, 102, 204, 0.08);
+
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.event-card:hover {
+  transform: translateY(-2px);
+  box-shadow:
+    0 8px 18px rgba(0, 102, 204, 0.25),
+    0 0 0 1px rgba(0, 102, 204, 0.15);
+}
+
+.event-link,
+.event-card-inner {
+  text-decoration: none;
+  color: inherit;
+  display: block;
+}
+
+/* OPTIONAL IMAGE (for later) */
+.event-photo {
+  width: 100%;
+  height: 140px;
+  object-fit: cover;
+  border-radius: 10px;
+  margin-bottom: 0.6rem;
+  background: #f2f6fb;
+}
+
+/* TEXT */
+.event-title {
+  margin: 0.2rem 0 0.4rem;
+  font-size: 1.05rem;
+}
+
+.event-subtitle {
+  margin: 0 0 0.4rem;
+  font-size: 0.9rem;
+  font-style: italic;
+  opacity: 0.75;
+}
+
+.event-meta {
+  margin: 0;
+  font-size: 0.9rem;
+  opacity: 0.85;
+}
+</style>
