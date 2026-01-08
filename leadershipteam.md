@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "WiCS-Europe Leadership Team"
+title: "Leadership Team"
 ---
 
 <h1>WiCS-Europe Leadership Team</h1>
