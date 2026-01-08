@@ -12,12 +12,12 @@
 
 <!-- Bio -->
 <p>
-  [Andrea Kiesel is a professor of Psychology in the Institute for Psychology at the University of Freiburg in Germany. 
+Andrea Kiesel is a professor of Psychology in the Institute for Psychology at the University of Freiburg in Germany. 
 Her research is supported by grants from the German Science Foundation (DFG) and the Ministry of Science Baden Württemberg. 
 She has served on the Executive committee of the European Society for Cognitive Psychology, and is currently President of the society (2021-2022). 
 Her research interest is in cognitive and action control, especially in contexts with interfering processes like in conflict tasks or in multitasking settings. 
 Further, she is pursuing research on timing in action contexts with a special focus on human-machine interactions. 
-She is also interested in novel methods to predict acceptance of novel technologies and aspects of sustainable behavior. ]
+She is also interested in novel methods to predict acceptance of novel technologies and aspects of sustainable behavior.
 </p>
 
 <p>
