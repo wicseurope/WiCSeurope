@@ -80,20 +80,6 @@ title: "Leadership Team"
       <p class="leader-affil">University of The Balearic Islands, Spain </p>
     </a>
   </div>
-  
-<div class="leader-card">
-    <a class="leader-link"
-       href="{{ '/leadershipteam-bios/Marta-Rivera.html' | relative_url }}">
-      <img
-        src="{{ '/leadershipteam-images/MartaRivera.jpg' | relative_url }}"
-        alt="Marta Rivera"
-        class="leader-card-photo"
-        loading="lazy">
-      <h2 class="leader-name">Marta Rivera </h2>
-      <p class="leader-pronouns">She/Her</p>
-      <p class="leader-affil">University of The Balearic Islands, Spain </p>
-    </a>
-  </div>
 
 <div class="leader-card">
     <a class="leader-link"
