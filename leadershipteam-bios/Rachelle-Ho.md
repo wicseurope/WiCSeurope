@@ -9,7 +9,7 @@ title: "Rachelle Ho"
 <p><strong>Affiliation:</strong> University of Aberdeen, Scotland, UK</p>
 
 <p>
-  <img src="{{ '/leadershipteam-images/rachelle-ho.jpg' | relative_url }}" 
+  <img src="{{ '/leadershipteam-images/rachelle-ho.jpeg' | relative_url }}" 
        alt="Rachelle Ho" 
        style="max-width: 220px; border-radius: 50%; margin: 1rem 0;">
 </p>
