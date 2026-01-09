@@ -1,25 +1,21 @@
 ---
 layout: default
-title: "María Jesús Maraver"
+title: "Nura Sidarus"
 ---
 
-<h1>María Jesús Maraver </h1>
-<h2 class="bio-pronouns">Pronouns: She/Her </h2>
+<h1>Nura Sidarus </h1>
+<h2 class="bio-pronouns">Pronouns: N/A </h2>
 
-<p><strong>Affiliation:</strong> University of Jaén, Spain  </p>
+<p><strong>Affiliation:</strong> Royal Holloway University of London, UK  </p>
 
 <p>
-  <img src="{{ '/leadershipteam-images/MJMaraver.jpg' | relative_url }}" 
-       alt="María Jesús Maraver" 
+  <img src="{{ '/leadershipteam-images/NuraSidarus.jpg' | relative_url }}" 
+       alt="Nura Sidarus" 
        style="max-width: 220px; border-radius: 50%; margin: 1rem 0;">
 </p>
 
 <p>
-  María Jesús Maraver is a postdoctoral researcher in cognitive psychology at the Mind, Brain, and Behavior Research Center (CIMCYC) at the University of Granada, Spain. 
-  Her postdoctoral trajectory has taken place at Leiden University, The Netherlands, and at the University of Lisbon, Portugal.
-  Her research interests pursue the study of human cognitive enhancement. How mechanisms of cognitive control and memory can be improved in healthy humans,
-  by means of cognitive training, brain stimulation, or the correction of memory errors, paying special attention to individual differences that can modulate cognitive enhancement,
-  by considering factors such as age, baseline capacities, or motivation.</p>
+Nura Sidarus is a Lecturer in the Department of Psychology, at Royal Holloway University of London. Nura completed an MSc and a PhD in Cognitive Neuroscience, at University College London, before receiving a Fyssen Foundation Postdoctoral Fellowship to work at the École Normale Supérieure, in Paris. Her research investigates how we monitor our actions and their consequences, and come to feel in control of them, and how this interacts with decision-making and learning. Combining cognitive, computational, and neuroimaging methods, her work aims to elucidate the (meta)cognitive mechanisms that support how we monitor and control our cognition and our actions. Thanks to an ESRC New Investigator Grant, she is also starting to explore how these (meta)cognitive processes may become maladaptive and underlie mental health problems, such as depression.</p>
 
 <p>
 <p class="bio-links">
