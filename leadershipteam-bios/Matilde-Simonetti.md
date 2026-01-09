@@ -1,29 +1,25 @@
 ---
 layout: default
-title: "María Jesús Maraver"
+title: "Matilde Ellen Simonetti"
 ---
 
-<h1>María Jesús Maraver </h1>
+<h1>Matilde Ellen Simonetti </h1>
 <h2 class="bio-pronouns">Pronouns: She/Her </h2>
 
-<p><strong>Affiliation:</strong> University of Jaén, Spain  </p>
+<p><strong>Affiliation:</strong> RWTH Aachen University, Germany  </p>
 
 <p>
-  <img src="{{ '/leadershipteam-images/MJMaraver.jpg' | relative_url }}" 
-       alt="María Jesús Maraver" 
+  <img src="{{ '/leadershipteam-images/MatildeSimonetti.jpg' | relative_url }}" 
+       alt="Matilde Ellen Simonetti" 
        style="max-width: 220px; border-radius: 50%; margin: 1rem 0;">
 </p>
 
 <p>
-  María Jesús Maraver is a postdoctoral researcher in cognitive psychology at the Mind, Brain, and Behavior Research Center (CIMCYC) at the University of Granada, Spain. 
-  Her postdoctoral trajectory has taken place at Leiden University, The Netherlands, and at the University of Lisbon, Portugal.
-  Her research interests pursue the study of human cognitive enhancement. How mechanisms of cognitive control and memory can be improved in healthy humans,
-  by means of cognitive training, brain stimulation, or the correction of memory errors, paying special attention to individual differences that can modulate cognitive enhancement,
-  by considering factors such as age, baseline capacities, or motivation.</p>
+  Matilde is a third-year PhD student at RWTH Aachen University in the Chair of Cognitive and Experimental Psychology, supervised by Dr. Tanja Roembke and Prof.  Iring Koch. In her research, she explores how bilinguals learn new words. She is particularly curious about how learning unfolds moment-to-moment (using an eye-tracking) and how linguistic experience shapes this process. Before her PhD, Matilde studied at the University of Milano-Bicocca, where she completed a master’s in Applied Experimental Psychological Sciences. </p>
 
 <p>
 <p class="bio-links">
-  <a class="bio-chip" href="PASTE_PERSONAL_WEBSITE_URL" target="_blank" rel="noopener noreferrer">Website</a>
+  <a class="bio-chip" href="https://matildellen.github.io/" target="_blank" rel="noopener noreferrer">Website</a>
   <a class="bio-chip" href="PASTE_ORCID_URL" target="_blank" rel="noopener noreferrer">ORCID</a>
   <a class="bio-chip" href="PASTE_GOOGLE_SCHOLAR_URL" target="_blank" rel="noopener noreferrer">Google Scholar</a>
   <a class="bio-chip" href="PASTE_LINKEDIN_URL" target="_blank" rel="noopener noreferrer">LinkedIn</a>
