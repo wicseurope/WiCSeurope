@@ -33,7 +33,7 @@ title: "Events"
 
   <div class="event-card">
     <a class="event-link"
-       href="{{ '/pastevents-summary/wics-europe-escop2025.html' | relative_url }}">
+       href="{{ '/pastevents-summary/wics-europe-ESCOP2025.html' | relative_url }}">
       <!-- future image goes here -->
       <!-- <img src="{{ '/pastevents-photos/escop2025.jpg' | relative_url }}" class="event-photo"> -->
       <h2 class="event-title">WiCS+Europe at ESCOP2025</h2>
@@ -42,9 +42,20 @@ title: "Events"
     </a>
   </div>
 
+  <div class="events-grid">
+
   <div class="event-card">
     <a class="event-link"
-       href="{{ '/pastevents-summary/addressing-gender-based-violence.html' | relative_url }}">
+       href="{{ '/pastevents-summary/wics-europe-ESCOP2025/' | relative_url }}">
+      <h2 class="event-title">WiCS+Europe at ESCOP2025</h2>
+      <p class="event-subtitle">Creating inclusive and safe academic spaces</p>
+      <p class="event-meta">Sheffield, UK · 2 September 2025</p>
+    </a>
+  </div>
+
+  <div class="event-card">
+    <a class="event-link"
+       href="{{ '/pastevents-summary/gender-based-violence-academia/' | relative_url }}">
       <h2 class="event-title">Addressing gender-based violence in academia</h2>
       <p class="event-subtitle">Online seminar</p>
       <p class="event-meta">10 March 2025</p>
@@ -53,7 +64,7 @@ title: "Events"
 
   <div class="event-card">
     <a class="event-link"
-       href="{{ '/pastevents-summary/inclusive-and-anti-racist-academia.html' | relative_url }}">
+       href="{{ '/pastevents-summary/gender-based-violence-academia/' | relative_url }}">
       <h2 class="event-title">Creating an Inclusive and Anti-racist Academia</h2>
       <p class="event-subtitle">Online panel discussion</p>
       <p class="event-meta">28 October 2024</p>
@@ -62,7 +73,7 @@ title: "Events"
 
   <div class="event-card">
     <a class="event-link"
-       href="{{ '/pastevents-summary/women-leaders-edi.html' | relative_url }}">
+       href="{{ '/pastevents-summary/women-leaders-edi/' | relative_url }}">
       <h2 class="event-title">How to Promote Equality?</h2>
       <p class="event-subtitle">Celebrating Women Leaders in EDI</p>
       <p class="event-meta">March 2024 · Online</p>
@@ -71,14 +82,78 @@ title: "Events"
 
   <div class="event-card">
     <a class="event-link"
-       href="{{ '/pastevents-summary/transitions-career-paths-escop2023.html' | relative_url }}">
+       href="{{ '/pastevents-summary/ESCOP2023/' | relative_url }}">
       <h2 class="event-title">Transitions in Career Paths</h2>
       <p class="event-subtitle">ESCOP 2023 Panel &amp; Speed Mentoring</p>
       <p class="event-meta">Porto, Portugal · 6 September 2023</p>
     </a>
   </div>
 
+  <div class="event-card">
+    <a class="event-link"
+       href="{{ '/pastevents-summary/fast-lane-to-slow-science/' | relative_url }}">
+      <h2 class="event-title">Fast Lane to Slow Science</h2>
+      <p class="event-subtitle">International Women’s Day panel</p>
+      <p class="event-meta">20 March 2023 · Online</p>
+    </a>
+  </div>
+
+  <div class="event-card">
+    <a class="event-link"
+       href="{{ '/pastevents-summary/lessons-pandemic/' | relative_url }}">
+      <h2 class="event-title">Lessons to Be Learned from the Pandemic</h2>
+      <p class="event-subtitle">Online panel discussion</p>
+      <p class="event-meta">28 November 2022</p>
+    </a>
+  </div>
+
+  <div class="event-card">
+    <a class="event-link"
+       href="{{ '/pastevents-summary/running-your-new-lab/' | relative_url }}">
+      <h2 class="event-title">Running Your New Lab</h2>
+      <p class="event-subtitle">Tips and tricks</p>
+      <p class="event-meta">10 March 2022 · Online</p>
+    </a>
+  </div>
+
+  <div class="event-card">
+    <a class="event-link"
+       href="{{ '/pastevents-summary/making-the-invisible-visible/' | relative_url }}">
+      <h2 class="event-title">Making the Invisible Visible</h2>
+      <p class="event-subtitle">Panel &amp; Speed Mentoring</p>
+      <p class="event-meta">vSARMAC</p>
+    </a>
+  </div>
+
+  <div class="event-card">
+    <a class="event-link"
+       href="{{ '/pastevents-summary/sexual-harassment-academia/' | relative_url }}">
+      <h2 class="event-title">Sexual Harassment in Academia</h2>
+      <p class="event-subtitle">Keynote lecture</p>
+      <p class="event-meta">ESCOP 2019 · Tenerife</p>
+    </a>
+  </div>
+
+  <div class="event-card">
+    <a class="event-link"
+       href="{{ '/pastevents-summary/negotiating-challenges-science/' | relative_url }}">
+      <h2 class="event-title">Negotiating Challenges to Scientific Advancement</h2>
+      <p class="event-subtitle">Panel &amp; Speed Mentoring</p>
+      <p class="event-meta">ICPS 2019 · Paris</p>
+    </a>
+  </div>
+
+  <div class="event-card">
+    <a class="event-link"
+       href="{{ '/pastevents-summary/evidence-based-practices-wics/' | relative_url }}">
+      <h2 class="event-title">Evidence-Based Practices for Promoting Equality &amp; Diversity</h2>
+      <p class="event-subtitle">Discussion with the founders of WiCS</p>
+      <p class="event-meta">6 March 2019 · Paris</p>
+    </a>
+  </div>
+
 </div>
+
 
 <style>
 /* GRID */
