@@ -95,6 +95,48 @@ title: "Leadership Team"
     </a>
   </div>
 
+<div class="leader-card">
+    <a class="leader-link"
+       href="{{ '/leadershipteam-bios/Nura-Sidarus.html' | relative_url }}">
+      <img
+        src="{{ '/leadershipteam-images/NuraSidarus.jpg' | relative_url }}"
+        alt="Nura Sidarus"
+        class="leader-card-photo"
+        loading="lazy">
+      <h2 class="leader-name">Nura Sidarus </h2>
+      <p class="leader-pronouns">N/A</p>
+      <p class="leader-affil">Royal Holloway University of London, UK </p>
+    </a>
+  </div>
+
+<div class="leader-card">
+    <a class="leader-link"
+       href="{{ '/leadershipteam-bios/Matilde-Simonetti.html' | relative_url }}">
+      <img
+        src="{{ '/leadershipteam-images/MatildeSimonetti.jpg' | relative_url }}"
+        alt="Matilde Simonetti"
+        class="leader-card-photo"
+        loading="lazy">
+      <h2 class="leader-name">Matilde Simonetti </h2>
+      <p class="leader-pronouns">She/Her</p>
+      <p class="leader-affil">RWTH Aachen University, Germany </p>
+    </a>
+  </div>
+
+<div class="leader-card">
+    <a class="leader-link"
+       href="{{ '/leadershipteam-bios/Zofia-Wodniecka.html' | relative_url }}">
+      <img
+        src="{{ '/leadershipteam-images/ZofiaWodniecka.jpg' | relative_url }}"
+        alt="Zofia Wodniecka"
+        class="leader-card-photo"
+        loading="lazy">
+      <h2 class="leader-name">Zofia Wodniecka</h2>
+      <p class="leader-pronouns">N/A </p>
+      <p class="leader-affil">Jagiellonian University, Poland</p>
+    </a>
+  </div>
+
 </div>
 
 <style>
