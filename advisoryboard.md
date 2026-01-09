@@ -10,25 +10,29 @@ title: "Advisory Board"
 </p>
 
 <div class="leaders-grid">
-    <div class="leader-card">
+
+  <div class="leader-card">
     <a class="leader-link"
        href="https://www.memoryugr.es/people/ma-teresa-bajo/"
        target="_blank"
        rel="noopener noreferrer"
        aria-label="Visit personal page of Teresa Bajo">
-    <img
-      src="{{ '/advisory-board-images/TeresaBajo.jpg' | relative_url }}"
-      alt="Teresa Bajo"
-      class="leader-card-photo"
-      loading="lazy">
-    <h2 class="leader-name">Teresa Bajo</h2>
-    <p class="leader-pronouns">N/A</p>
-    <p class="leader-affil">University of Granada, Spain</p>
+
+      <img
+        src="{{ '/advisory-board-images/TeresaBajo.jpg' | relative_url }}"
+        alt="Teresa Bajo"
+        class="leader-card-photo"
+        loading="lazy">
+
+      <h2 class="leader-name">Teresa Bajo</h2>
+      <p class="leader-pronouns">N/A</p>
+      <p class="leader-affil">University of Granada, Spain</p>
+
+    </a>
   </div>
 
- 
-
 </div>
+
 
 <style>
 /* GRID: 4 columns on desktop */
