@@ -106,10 +106,4 @@ We are open to new initiatives, activities, and meetings. If you are interested 
 * **Bluesky:** [https://bsky.app/profile/wicseurope.bsky.social](https://bsky.app/profile/wicseurope.bsky.social)
 * **LinkedIn:** [https://www.linkedin.com/company/108927366/](https://www.linkedin.com/company/108927366/)
 
----
 
-*Follow us on social media and help us build a more inclusive cognitive science community.*
-
-
-Bluesky: https://bsky.app/profile/wicseurope.bsky.social
-Linkedin: https://www.linkedin.com/company/108927366/admin/dashboard/
