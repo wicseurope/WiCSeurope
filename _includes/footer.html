@@ -1,1 +1,84 @@
+<footer class="site-footer">
+
+  <p class="footer-text">
+    <em>Follow us on social media and help us build a more inclusive cognitive science community.</em>
+  </p>
+
+  <div class="footer-icons">
+    <a href="https://bsky.app/profile/wicseurope.bsky.social"
+       target="_blank"
+       rel="noopener noreferrer"
+       aria-label="WiCS-Europe on Bluesky"
+       class="footer-icon">
+      🦋
+      <span>Bluesky</span>
+    </a>
+
+    <a href="https://www.linkedin.com/company/108927366/admin/dashboard/"
+       target="_blank"
+       rel="noopener noreferrer"
+       aria-label="WiCS-Europe on LinkedIn"
+       class="footer-icon">
+      🔗
+      <span>LinkedIn</span>
+    </a>
+  </div>
+
+</footer>
+
+<style>
+.site-footer{
+  margin-top: 4rem;
+  padding: 2.5rem 1rem 2rem;
+  text-align: center;
+  background: linear-gradient(
+    to top,
+    rgba(0, 102, 204, 0.06),
+    rgba(0, 102, 204, 0.02)
+  );
+  border-top: 1px solid rgba(0, 102, 204, 0.15);
+}
+
+.footer-text{
+  margin: 0 0 1.5rem;
+  font-size: 1rem;
+  color: rgba(0,0,0,0.75);
+}
+
+.footer-icons{
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  flex-wrap: wrap;
+}
+
+.footer-icon{
+  text-decoration: none;
+  color: inherit;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.4rem;
+  font-size: 1.05rem;
+  padding: 0.6rem 0.8rem;
+  border-radius: 14px;
+  background: #ffffff;
+  box-shadow:
+    0 4px 12px rgba(0, 102, 204, 0.18),
+    0 0 0 1px rgba(0, 102, 204, 0.12);
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.footer-icon:hover{
+  transform: translateY(-2px);
+  box-shadow:
+    0 8px 18px rgba(0, 102, 204, 0.28),
+    0 0 0 1px rgba(0, 102, 204, 0.18);
+}
+
+.footer-icon span{
+  font-size: 0.9rem;
+  opacity: 0.85;
+}
+</style>
 
