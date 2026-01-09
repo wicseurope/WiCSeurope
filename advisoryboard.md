@@ -17,7 +17,7 @@ title: "Advisory Board"
        rel="noopener noreferrer"
        aria-label="Visit personal page of Teresa Bajo">
     <img
-      src="{{ '/advisory-board-images/TeresaBajo.jpeg' | relative_url }}"
+      src="{{ '/advisory-board-images/TeresaBajo.jpg' | relative_url }}"
       alt="Teresa Bajo"
       class="leader-card-photo"
       loading="lazy">
