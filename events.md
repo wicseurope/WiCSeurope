@@ -33,20 +33,9 @@ title: "Events"
 
   <div class="event-card">
     <a class="event-link"
-       href="{{ '/pastevents-summary/wics-europe-ESCOP2025.html' | relative_url }}">
+       href="{{ '/pastevents-summary/wics-europe-ESCOP2025/' | relative_url }}">
       <!-- future image goes here -->
       <!-- <img src="{{ '/pastevents-photos/escop2025.jpg' | relative_url }}" class="event-photo"> -->
-      <h2 class="event-title">WiCS+Europe at ESCOP2025</h2>
-      <p class="event-subtitle">Creating inclusive and safe academic spaces</p>
-      <p class="event-meta">Sheffield, UK · 2 September 2025</p>
-    </a>
-  </div>
-
-  <div class="events-grid">
-
-  <div class="event-card">
-    <a class="event-link"
-       href="{{ '/pastevents-summary/wics-europe-ESCOP2025/' | relative_url }}">
       <h2 class="event-title">WiCS+Europe at ESCOP2025</h2>
       <p class="event-subtitle">Creating inclusive and safe academic spaces</p>
       <p class="event-meta">Sheffield, UK · 2 September 2025</p>
@@ -64,7 +53,7 @@ title: "Events"
 
   <div class="event-card">
     <a class="event-link"
-       href="{{ '/pastevents-summary/gender-based-violence-academia/' | relative_url }}">
+       href="{{ '/pastevents-summary/inclusive-anti-racist-academia/' | relative_url }}">
       <h2 class="event-title">Creating an Inclusive and Anti-racist Academia</h2>
       <p class="event-subtitle">Online panel discussion</p>
       <p class="event-meta">28 October 2024</p>
