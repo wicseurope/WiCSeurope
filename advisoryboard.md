@@ -10,10 +10,9 @@ title: "Advisory Board"
 </p>
 
 <div class="leaders-grid">
-
     <div class="leader-card">
     <a class="leader-link"
-       href="PASTE_PERSONAL_URL_Teresa_Bajo"
+       href="https://www.memoryugr.es/people/ma-teresa-bajo/"
        target="_blank"
        rel="noopener noreferrer"
        aria-label="Visit personal page of Teresa Bajo">
