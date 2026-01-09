@@ -127,7 +127,7 @@ title: "Leadership Team"
     <a class="leader-link"
        href="{{ '/leadershipteam-bios/Zofia-Wodniecka.html' | relative_url }}">
       <img
-        src="{{ '/leadershipteam-images/ZofiaWodniecka.jpg' | relative_url }}"
+        src="{{ '/leadershipteam-images/Zofia-Wodniecka.jpg' | relative_url }}"
         alt="Zofia Wodniecka"
         class="leader-card-photo"
         loading="lazy">
