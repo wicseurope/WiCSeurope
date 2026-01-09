@@ -29,8 +29,6 @@ title: "Advisory Board"
 
     </a>
   </div>
-<div class="leaders-grid">
-
   <div class="leader-card">
     <a class="leader-link"
        href="https://www.abo.fi/en/contact/anna-soveri/"
@@ -49,8 +47,6 @@ title: "Advisory Board"
 
     </a>
   </div>
-<div class="leaders-grid">
-
   <div class="leader-card">
     <a class="leader-link"
        href="https://www.unifr.ch/psycho/en/department/staff/dept/people/18320/8445c"
@@ -69,8 +65,6 @@ title: "Advisory Board"
 
     </a>
   </div>
-<div class="leaders-grid">
-
   <div class="leader-card">
     <a class="leader-link"
        href="https://www.psychologie.uni-wuerzburg.de/cog/staff/prof-dr-wilfried-kunde/"
@@ -89,8 +83,6 @@ title: "Advisory Board"
 
     </a>
   </div>
-<div class="leaders-grid">
-
   <div class="leader-card">
     <a class="leader-link"
        href="https://profiles.ucl.ac.uk/2301-gabriella-vigliocco"
@@ -109,8 +101,6 @@ title: "Advisory Board"
 
     </a>
   </div>
-<div class="leaders-grid">
-
   <div class="leader-card">
     <a class="leader-link"
        href="https://lscp.dec.ens.fr/fr/member/623/anne-christophe"
@@ -129,8 +119,6 @@ title: "Advisory Board"
 
     </a>
   </div>
-<div class="leaders-grid">
-
   <div class="leader-card">
     <a class="leader-link"
        href="https://www.iit.it/people-details/-/people/agnieszka-wykowska"
@@ -149,8 +137,6 @@ title: "Advisory Board"
 
     </a>
   </div>
-<div class="leaders-grid">
-
   <div class="leader-card">
     <a class="leader-link"
        href="https://www.kuleuven.be/wieiswie/en/person/00050367"
@@ -169,8 +155,6 @@ title: "Advisory Board"
 
     </a>
   </div>
-<div class="leaders-grid">
-
   <div class="leader-card">
     <a class="leader-link"
        href="https://sigarra.up.pt/fpceup/en/func_geral.formview?p_codigo=654770"
@@ -189,8 +173,6 @@ title: "Advisory Board"
 
     </a>
   </div>
-<div class="leaders-grid">
-
   <div class="leader-card">
     <a class="leader-link"
        href="https://www.bristol.ac.uk/people/person/Stephan-Lewandowsky-ebfa6836-6895-4acf-b57b-b2acdf30ec99/"
