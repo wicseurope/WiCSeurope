@@ -6,7 +6,7 @@ title: "Advisory Board"
 <h1>WiCS-Europe Advisory Board</h1>
 
 <p>
-  INTRODUCTION TO THE ADVISORY BOARD
+  The strength of WiCS Europe+ lies in the experience and insight of our Advisory Board.
 </p>
 
 <div class="leaders-grid">
@@ -58,7 +58,7 @@ title: "Advisory Board"
        rel="noopener noreferrer"
        aria-label="Visit personal page of Valerie Camos">
 <img
-        src="{{ '/advisory-board-images/ValerieCamos.jpg' | relative_url }}"
+        src="{{ '/advisory-board-images/ValerieCamos.png' | relative_url }}"
         alt="Valerie Camos"
         class="leader-card-photo"
         loading="lazy">
@@ -78,7 +78,7 @@ title: "Advisory Board"
        rel="noopener noreferrer"
        aria-label="Visit personal page of Wilfried Kunde">
 <img
-        src="{{ '/advisory-board-images/WilfriedKunde.jpg' | relative_url }}"
+        src="{{ '/advisory-board-images/WilfriedKunde.png' | relative_url }}"
         alt="Wilfried Kunde"
         class="leader-card-photo"
         loading="lazy">
@@ -98,7 +98,7 @@ title: "Advisory Board"
        rel="noopener noreferrer"
        aria-label="Visit personal page of Gabriella Vigliocco">
 <img
-        src="{{ '/advisory-board-images/GabriellaVigliocco.jpg' | relative_url }}"
+        src="{{ '/advisory-board-images/GabriellaVigliocco.png' | relative_url }}"
         alt="Gabriella Vigliocco"
         class="leader-card-photo"
         loading="lazy">
@@ -118,7 +118,7 @@ title: "Advisory Board"
        rel="noopener noreferrer"
        aria-label="Visit personal page of Anne Christophe">
 <img
-        src="{{ '/advisory-board-images/AnneChristophe.jpg' | relative_url }}"
+        src="{{ '/advisory-board-images/AnneChristophe.png' | relative_url }}"
         alt="Anne Christophe"
         class="leader-card-photo"
         loading="lazy">
@@ -138,7 +138,7 @@ title: "Advisory Board"
        rel="noopener noreferrer"
        aria-label="Visit personal page of Agnieszka Wykowska">
 <img
-        src="{{ '/advisory-board-images/AgnieszkaWykowska.jpg' | relative_url }}"
+        src="{{ '/advisory-board-images/AgnieszkaWykowska.png' | relative_url }}"
         alt="Agnieszka Wykowska"
         class="leader-card-photo"
         loading="lazy">
@@ -158,7 +158,7 @@ title: "Advisory Board"
        rel="noopener noreferrer"
        aria-label="Visit personal page of Eva van den Bussche">
 <img
-        src="{{ '/advisory-board-images/EvavandenBussche.jpg' | relative_url }}"
+        src="{{ '/advisory-board-images/EvavandenBussche.png' | relative_url }}"
         alt="Eva van den Bussche"
         class="leader-card-photo"
         loading="lazy">
@@ -178,7 +178,7 @@ title: "Advisory Board"
        rel="noopener noreferrer"
        aria-label="Visit personal page of Alessandra Souza">
 <img
-        src="{{ '/advisory-board-images/AlessandraSouza.jpg' | relative_url }}"
+        src="{{ '/advisory-board-images/AlessandraSouza.png' | relative_url }}"
         alt="Alessandra Souza"
         class="leader-card-photo"
         loading="lazy">
