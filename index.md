@@ -91,7 +91,7 @@ Many scholars—especially early‑career researchers and those from the Global 
 ### Past Events
 
 Information about past WiCS-Europe events, including panel discussions, seminars, and mentoring
-sessions, can be found on our  **[Events page]({{ '/events.html' | relative_url }})*
+sessions, can be found on our  **[Events page]({{ '/events.html' | relative_url }})**
 
 ---
 
