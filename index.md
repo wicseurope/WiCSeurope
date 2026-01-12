@@ -82,18 +82,16 @@ Many scholars—especially early‑career researchers and those from the Global 
 ---
 
 ## Events
-
-### Past Events
-
-| Event           | Details                                                                                                                                                            |
-| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Event Title** | **Date:** <date><br>**Speakers:** <names><br><img src="past-event.jpg" alt="Past event photo" width="200" /><br>Short description of the event.<br>[Event page](#) |
-
 ### Upcoming Events
 
 | Event              | Details                                                                                                                      |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------- |
 | **Upcoming Event** | <img src="event-flyer.jpg" alt="Event flyer" width="200" /><br>Short description of the upcoming event.<br>[Sign up here](#) |
+
+### Past Events
+
+Information about past WiCS-Europe events, including panel discussions, seminars, and mentoring
+sessions, can be found on our  **[Events page]({{ '/events.html' | relative_url }})*
 
 ---
 
