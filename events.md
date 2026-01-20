@@ -16,7 +16,7 @@ title: "Events"
 
   <div class="event-card">
     <div class="event-card-inner">
-      <h2 class="event-title">Next WiCS-Europe event</h2>
+      <h2 class="event-title">Next WiCS+Europe event</h2>
       <p class="event-subtitle">To be announced</p>
       <p class="event-meta">
         Details will be shared soon.<br>
