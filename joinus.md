@@ -20,15 +20,14 @@ title: "Join Us"
     <div class="join-card-inner">
       <h2 class="join-title">Become a member of WiCS+</h2>
       <p class="join-text">
-Join our parent organization, [WiCS+](http://www.womenincogsci.org/membership-form), 
+  Join our parent organization,
+  <a href="https://womenincogsci.org/membership-form" target="_blank" rel="noopener">WiCS+</a>.
 </p>
       <p class="join-text">
         Becoming a member is free and open to people of <strong>all gender identities</strong>, career stages,
         and disciplines.
       </p>
-      </p>
     </div>
-  </div>
 
   <!-- Newsletter -->
   <div class="join-card">
