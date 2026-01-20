@@ -3,10 +3,10 @@ layout: default
 title: "Advisory Board"
 ---
 
-<h1>WiCS-Europe Advisory Board</h1>
+<h1>WiCS+E Advisory Board</h1>
 
 <p>
-  The strength of WiCS Europe+ lies in the experience, insight, and support of our Advisory Board (listed in alphabetical order).
+  The strength of WiCS+E lies in the experience, insight, and support of our Advisory Board (listed in alphabetical order).
 </p>
 
 <div class="leaders-grid">
@@ -143,8 +143,6 @@ title: "Advisory Board"
 
     </a>
   </div>
-
-</div>
   
   <div class="leader-card">
     <a class="leader-link"
