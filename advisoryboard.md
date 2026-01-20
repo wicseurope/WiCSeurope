@@ -6,7 +6,7 @@ title: "Advisory Board"
 <h1>WiCS-Europe Advisory Board</h1>
 
 <p>
-  The strength of WiCS Europe+ lies in the experience and insight of our Advisory Board.
+  "The strength of WiCS Europe+ lies in the experience, insight, and support of our Advisory Board (listed in alphabetical order)."
 </p>
 
 <div class="leaders-grid">
@@ -29,114 +29,7 @@ title: "Advisory Board"
 
     </a>
   </div>
-  <div class="leader-card">
-    <a class="leader-link"
-       href="https://www.abo.fi/en/contact/anna-soveri/"
-       target="_blank"
-       rel="noopener noreferrer"
-       aria-label="Visit personal page of Anna Soveri">
-<img
-        src="{{ '/advisory-board-images/AnnaSoveri.jpg' | relative_url }}"
-        alt="Anna Soveri"
-        class="leader-card-photo"
-        loading="lazy">
 
-  <h2 class="leader-name">Anna Soveri</h2>
-      <p class="leader-pronouns">N/A</p>
-      <p class="leader-affil">University, Turku, Finland</p>
-
-    </a>
-  </div>
-  <div class="leader-card">
-    <a class="leader-link"
-       href="https://www.unifr.ch/psycho/en/department/staff/dept/people/18320/8445c"
-       target="_blank"
-       rel="noopener noreferrer"
-       aria-label="Visit personal page of Valerie Camos">
-<img
-        src="{{ '/advisory-board-images/ValerieCamos.png' | relative_url }}"
-        alt="Valerie Camos"
-        class="leader-card-photo"
-        loading="lazy">
-
-  <h2 class="leader-name">Valerie Camos</h2>
-      <p class="leader-pronouns">N/A</p>
-      <p class="leader-affil">Université de Fribourg, Switzerland</p>
-
-    </a>
-  </div>
-  <div class="leader-card">
-    <a class="leader-link"
-       href="https://www.psychologie.uni-wuerzburg.de/cog/staff/prof-dr-wilfried-kunde/"
-       target="_blank"
-       rel="noopener noreferrer"
-       aria-label="Visit personal page of Wilfried Kunde">
-<img
-        src="{{ '/advisory-board-images/WilfriedKunde.png' | relative_url }}"
-        alt="Wilfried Kunde"
-        class="leader-card-photo"
-        loading="lazy">
-
-  <h2 class="leader-name">Wilfried Kunde</h2>
-      <p class="leader-pronouns">N/A</p>
-      <p class="leader-affil">Würzburg University, Germany</p>
-
-    </a>
-  </div>
-  <div class="leader-card">
-    <a class="leader-link"
-       href="https://profiles.ucl.ac.uk/2301-gabriella-vigliocco"
-       target="_blank"
-       rel="noopener noreferrer"
-       aria-label="Visit personal page of Gabriella Vigliocco">
-<img
-        src="{{ '/advisory-board-images/GabriellaVigliocco.png' | relative_url }}"
-        alt="Gabriella Vigliocco"
-        class="leader-card-photo"
-        loading="lazy">
-
-  <h2 class="leader-name">Gabriella Vigliocco</h2>
-      <p class="leader-pronouns">N/A</p>
-      <p class="leader-affil"> University College London, UK</p>
-
-    </a>
-  </div>
-  <div class="leader-card">
-    <a class="leader-link"
-       href="https://lscp.dec.ens.fr/fr/member/623/anne-christophe"
-       target="_blank"
-       rel="noopener noreferrer"
-       aria-label="Visit personal page of Anne Christophe">
-<img
-        src="{{ '/advisory-board-images/AnneChristophe.png' | relative_url }}"
-        alt="Anne Christophe"
-        class="leader-card-photo"
-        loading="lazy">
-
-  <h2 class="leader-name">Anne Christophe</h2>
-      <p class="leader-pronouns">N/A</p>
-      <p class="leader-affil"> Ecole Normale Superieure, Paris, France </p>
-
-    </a>
-  </div>
-  <div class="leader-card">
-    <a class="leader-link"
-       href="https://www.iit.it/people-details/-/people/agnieszka-wykowska"
-       target="_blank"
-       rel="noopener noreferrer"
-       aria-label="Visit personal page of Agnieszka Wykowska">
-<img
-        src="{{ '/advisory-board-images/AgnieszkaWykowska.png' | relative_url }}"
-        alt="Agnieszka Wykowska"
-        class="leader-card-photo"
-        loading="lazy">
-
-  <h2 class="leader-name">Agnieszka Wykowska</h2>
-      <p class="leader-pronouns">N/A</p>
-      <p class="leader-affil"> Italian Institute of Technology, Italy </p>
-
-    </a>
-  </div>
   <div class="leader-card">
     <a class="leader-link"
        href="https://www.kuleuven.be/wieiswie/en/person/00050367"
@@ -155,24 +48,64 @@ title: "Advisory Board"
 
     </a>
   </div>
-  <div class="leader-card">
+
+ <div class="leader-card">
     <a class="leader-link"
-       href="https://sigarra.up.pt/fpceup/en/func_geral.formview?p_codigo=654770"
+       href="https://www.unifr.ch/psycho/en/department/staff/dept/people/18320/8445c"
        target="_blank"
        rel="noopener noreferrer"
-       aria-label="Visit personal page of Alessandra Souza">
+       aria-label="Visit personal page of Valerie Camos">
 <img
-        src="{{ '/advisory-board-images/AlessandraSouza.png' | relative_url }}"
-        alt="Alessandra Souza"
+        src="{{ '/advisory-board-images/ValerieCamos.png' | relative_url }}"
+        alt="Valerie Camos"
         class="leader-card-photo"
         loading="lazy">
 
-  <h2 class="leader-name">Alessandra Souza</h2>
+  <h2 class="leader-name">Valerie Camos</h2>
       <p class="leader-pronouns">N/A</p>
-      <p class="leader-affil"> University of Porto, Portugal </p>
+      <p class="leader-affil">Université de Fribourg, Switzerland</p>
 
     </a>
   </div>
+
+<div class="leader-card">
+    <a class="leader-link"
+       href="https://lscp.dec.ens.fr/fr/member/623/anne-christophe"
+       target="_blank"
+       rel="noopener noreferrer"
+       aria-label="Visit personal page of Anne Christophe">
+<img
+        src="{{ '/advisory-board-images/AnneChristophe.png' | relative_url }}"
+        alt="Anne Christophe"
+        class="leader-card-photo"
+        loading="lazy">
+
+  <h2 class="leader-name">Anne Christophe</h2>
+      <p class="leader-pronouns">N/A</p>
+      <p class="leader-affil"> Ecole Normale Superieure, Paris, France </p>
+
+    </a>
+  </div>
+
+<div class="leader-card">
+    <a class="leader-link"
+       href="https://www.psychologie.uni-wuerzburg.de/cog/staff/prof-dr-wilfried-kunde/"
+       target="_blank"
+       rel="noopener noreferrer"
+       aria-label="Visit personal page of Wilfried Kunde">
+<img
+        src="{{ '/advisory-board-images/WilfriedKunde.png' | relative_url }}"
+        alt="Wilfried Kunde"
+        class="leader-card-photo"
+        loading="lazy">
+
+  <h2 class="leader-name">Wilfried Kunde</h2>
+      <p class="leader-pronouns">N/A</p>
+      <p class="leader-affil">Würzburg University, Germany</p>
+
+    </a>
+  </div>
+
   <div class="leader-card">
     <a class="leader-link"
        href="https://www.bristol.ac.uk/people/person/Stephan-Lewandowsky-ebfa6836-6895-4acf-b57b-b2acdf30ec99/"
@@ -192,7 +125,85 @@ title: "Advisory Board"
     </a>
   </div>
 
+<div class="leader-card">
+    <a class="leader-link"
+       href="https://sigarra.up.pt/fpceup/en/func_geral.formview?p_codigo=654770"
+       target="_blank"
+       rel="noopener noreferrer"
+       aria-label="Visit personal page of Alessandra Souza">
+<img
+        src="{{ '/advisory-board-images/AlessandraSouza.png' | relative_url }}"
+        alt="Alessandra Souza"
+        class="leader-card-photo"
+        loading="lazy">
+
+  <h2 class="leader-name">Alessandra Souza</h2>
+      <p class="leader-pronouns">N/A</p>
+      <p class="leader-affil"> University of Porto, Portugal </p>
+
+    </a>
+  </div>
+
 </div>
+  
+  <div class="leader-card">
+    <a class="leader-link"
+       href="https://www.abo.fi/en/contact/anna-soveri/"
+       target="_blank"
+       rel="noopener noreferrer"
+       aria-label="Visit personal page of Anna Soveri">
+<img
+        src="{{ '/advisory-board-images/AnnaSoveri.jpg' | relative_url }}"
+        alt="Anna Soveri"
+        class="leader-card-photo"
+        loading="lazy">
+
+  <h2 class="leader-name">Anna Soveri</h2>
+      <p class="leader-pronouns">N/A</p>
+      <p class="leader-affil">University, Turku, Finland</p>
+
+    </a>
+  </div>
+ 
+  
+  <div class="leader-card">
+    <a class="leader-link"
+       href="https://profiles.ucl.ac.uk/2301-gabriella-vigliocco"
+       target="_blank"
+       rel="noopener noreferrer"
+       aria-label="Visit personal page of Gabriella Vigliocco">
+<img
+        src="{{ '/advisory-board-images/GabriellaVigliocco.png' | relative_url }}"
+        alt="Gabriella Vigliocco"
+        class="leader-card-photo"
+        loading="lazy">
+
+  <h2 class="leader-name">Gabriella Vigliocco</h2>
+      <p class="leader-pronouns">N/A</p>
+      <p class="leader-affil"> University College London, UK</p>
+
+    </a>
+  </div>
+  
+  <div class="leader-card">
+    <a class="leader-link"
+       href="https://www.iit.it/people-details/-/people/agnieszka-wykowska"
+       target="_blank"
+       rel="noopener noreferrer"
+       aria-label="Visit personal page of Agnieszka Wykowska">
+<img
+        src="{{ '/advisory-board-images/AgnieszkaWykowska.png' | relative_url }}"
+        alt="Agnieszka Wykowska"
+        class="leader-card-photo"
+        loading="lazy">
+
+  <h2 class="leader-name">Agnieszka Wykowska</h2>
+      <p class="leader-pronouns">N/A</p>
+      <p class="leader-affil"> Italian Institute of Technology, Italy </p>
+
+    </a>
+  </div>
+
 
 
 <style>
