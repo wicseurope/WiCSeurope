@@ -3,10 +3,10 @@ layout: default
 title: "Events"
 ---
 
-<h1>WiCS-Europe Events</h1>
+<h1>WiCS+Europe Events</h1>
 
 <p>
-  WiCS-Europe organizes events dedicated to equity, diversity, inclusion, and professional
+  WiCS+Europe organizes events dedicated to equity, diversity, inclusion, and professional
   development in cognitive science.
 </p>
 
