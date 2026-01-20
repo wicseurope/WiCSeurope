@@ -74,7 +74,7 @@ Join our parent organization, [WiCS+](http://www.womenincogsci.org/membership-fo
   <!-- Join the team -->
   <div class="join-card">
     <div class="join-card-inner">
-      <h2 class="join-title">Join the WiCS-Europe team</h2>
+      <h2 class="join-title">Join the WiCS+Europe team</h2>
       <p class="join-text">
         WiCS-Europe is run by volunteers committed to fostering more inclusive and supportive
         academic environments.
