@@ -6,7 +6,7 @@ title: "Leadership Team"
 <h1>WiCS-Europe Leadership Team</h1>
 
 <p>
-  Meet the current WiCS-Europe leadership team, working to promote equity, diversity and inclusion
+  Meet the current WiCS+E leadership team, working to promote equity, diversity and inclusion
   in cognitive science across Europe.
 </p>
 
