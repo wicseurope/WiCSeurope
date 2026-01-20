@@ -2,7 +2,7 @@
 layout: default
 title: "Join Us"
 ---
-<h1>Join WiCS-Europe</h1>
+<h1>Join WiCS+Europe</h1>
 
 <p>
   Women in Cognitive Science + Europe (WiCS+Europe) is an inclusive community dedicated to promoting
