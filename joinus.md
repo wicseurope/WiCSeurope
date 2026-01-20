@@ -5,7 +5,7 @@ title: "Join Us"
 <h1>Join WiCS-Europe</h1>
 
 <p>
-  Women in Cognitive Science – Europe (WiCS-Europe) is an inclusive community dedicated to promoting
+  Women in Cognitive Science + Europe (WiCS+Europe) is an inclusive community dedicated to promoting
   equity, diversity, and inclusion (EDI) in cognitive science across Europe and beyond.
 </p>
 
@@ -60,7 +60,7 @@ Join our parent organization, [WiCS+](http://www.womenincogsci.org/membership-fo
       </p>
       <p class="join-text">
         If you are organizing (or planning to organize) a conference, workshop, or academic meeting
-        and would like to collaborate with WiCS-Europe, we would be very happy to hear from you.
+        and would like to collaborate with WiCS+Europe, we would be very happy to hear from you.
       </p>
       <p class="join-meta">
         Contact us at<br>
