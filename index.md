@@ -16,7 +16,9 @@ Through mentorship, advocacy, and community‑building, WiCS+ empowers a global 
 
 ## WiCS Europe
 
-The **European chapter of WiCS (WiCS+E)** was established in **2016** at the International Psychonomics Meeting in **Granada, Spain**, co‑founded by **Drs. Teresa Bajo and Cristina Cacciari**. WiCS+E focuses on amplifying the visibility of women and other underrepresented communities in Europe, fostering collaboration and networking opportunities, and strengthening the global cognitive science community through shared values of inclusion and respect. **WiCS+E** is finantinally supported by the [**European Society of Cognitive Psychology (ESCoP)**](https://www.escop.eu) to organize events during their binnual conference
+The **European chapter of WiCS (WiCS+E)** was established in **2016** at the International Psychonomics Meeting in **Granada, Spain**, co‑founded by **Drs. Teresa Bajo and Cristina Cacciari**. WiCS+E focuses on amplifying the visibility of women and other underrepresented communities in Europe, fostering collaboration and networking opportunities, and strengthening the global cognitive science community through shared values of inclusion and respect.
+
+**WiCS+E** is finantinally supported by the [**European Society of Cognitive Psychology (ESCoP)**](https://www.escop.eu) to organize a satellite event during their binnual conference
 
 ---
 
