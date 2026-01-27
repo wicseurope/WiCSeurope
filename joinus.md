@@ -28,7 +28,7 @@ title: "Join Us"
         and disciplines.
       </p>
       <p class="join-text">
-Through our partnership with the [[Psychonomic Society]](https://www.psychonomic.org), WiCS+ is now accepting donations through the Psychonomic Society’s donation page. 
+Through our partnership with the <a href="https://www.psychonomic.org" target="_blank" rel="noopener">Psychonomic Society</a>, WiCS+ is now accepting donations through the Psychonomic Society’s donation page. 
 This special link will designate donations to go directly to support WiCS+: https://lnkd.in/dsiqKt-n
     </div>
 
