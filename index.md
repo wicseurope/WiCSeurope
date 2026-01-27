@@ -16,7 +16,7 @@ Through mentorship, advocacy, and community‑building, WiCS+ empowers a global 
 
 ## WiCS Europe
 
-The **European chapter of WiCS (WiCS+E)** was established in **2016** at the International Psychonomics Meeting in **Granada, Spain**, co‑founded by **Drs. Teresa Bajo and Cristina Cacciari**. WiCS+E focuses on amplifying the visibility of women and other underrepresented communities in Europe, fostering collaboration and networking opportunities, and strengthening the global cognitive science community through shared values of inclusion and respect.
+The **European chapter of WiCS (WiCS+E)** was established in **2016** at the International Psychonomics Meeting in **Granada, Spain**, co‑founded by **Drs. Teresa Bajo and Cristina Cacciari**. WiCS+E focuses on amplifying the visibility of women and other underrepresented communities in Europe, fostering collaboration and networking opportunities, and strengthening the global cognitive science community through shared values of inclusion and respect. **WiCS+E** is finantinally supported by the [**European Society of Cognitive Psychology (ESCoP)**](https://www.escop.eu) to organize events during their binnual conference
 
 ---
 
@@ -26,7 +26,7 @@ WiCS+E connects cognitive scientists across Europe and creates opportunities to 
 
 You will find us at:
 
-* Biannual [**ESCoP**](https://www.escop.eu) meetings
+* Biannual funded [**ESCoP**](https://www.escop.eu) meetings
 * Other cognitive science conferences such as **[ICPS](https://www.psychologicalscience.org/icps/about), [ISB](https://www.bcbl.eu/events/isb15/en/), and [SARMAC](https://www.sarmac.org)**
 * Online events held at least once a year, with a recurring event every **March** to celebrate **Women’s Month**
 
@@ -38,6 +38,7 @@ Our goals are to:
 * Promote equity, inclusion, and visibility for scholars historically excluded from science
 
 Through mentoring, shared resources, and collective care, we strive to make cognitive science a field where **every voice matters**.
+
 
 ---
 
@@ -53,7 +54,7 @@ We are committed to:
 
 ---
 
-## CONTACT
+## Contact
 
 We are open to new initiatives, activities and meetings.  
 If you’re interested in organizing an event or helping out the current leadership team, please reach out to us.
@@ -80,7 +81,7 @@ If you’re interested in organizing an event or helping out the current leaders
 Information about past WiCS+E events, including panel discussions, seminars, and mentoring
 sessions, can be found on our  **[Events page]({{ '/events.html' | relative_url }})**
 
-
 ### ESCOP2025 event 
 
 Information about most recent ESCOP event WiCS+E events can be found on our  **[Events page]({{ '/events.html' | relative_url }})**
+
