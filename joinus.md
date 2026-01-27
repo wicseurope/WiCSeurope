@@ -27,7 +27,13 @@ title: "Join Us"
         Becoming a member is free and open to people of <strong>all gender identities</strong>, career stages,
         and disciplines.
       </p>
+      <p class="join-text">
+Through our partnership with the [Psychonomic Society](https://www.psychonomic.org), WiCS+ is now accepting donations through the Psychonomic Society’s donation page. 
+This special link will designate donations to go directly to support WiCS+: [https://lnkd.in/dsiqKt-n](https://lnkd.in/dsiqKt-n)
     </div>
+
+
+    
 
   <!-- Newsletter -->
   <div class="join-card">
