@@ -32,18 +32,17 @@ title: "Join Us"
   <!-- Newsletter -->
   <div class="join-card">
     <div class="join-card-inner">
-      <h2 class="join-title">Subscribe to our newsletter</h2>
+      <h2 class="join-title">Leave your contact details to receive information of up-coming events </h2>
       <p class="join-text">
         Stay up to date with WiCS-Europe activities, including upcoming events, calls for
         participation, mentoring opportunities, and other initiatives related to EDI in cognitive
         science.
       </p>
       <p class="join-text">
-        Our newsletter is open to people of <strong>all gender identities</strong>, career stages,
+        Our events is open to people of <strong>all gender identities</strong>, career stages,
         and disciplines.
       </p>
       <p class="join-meta">
-        Newsletter subscription<br>
         <em>Form coming soon</em>
       </p>
     </div>
@@ -83,7 +82,7 @@ title: "Join Us"
         <strong>Advisory Board</strong>, or <strong>Trainee Board</strong>.
       </p>
       <p class="join-meta">
-        Calls are announced via our newsletter and website.
+        Calls are announced via our e-mail list, LinkedIn, and website!
       </p>
     </div>
   </div>
