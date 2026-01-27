@@ -58,14 +58,9 @@ title: "Leadership Team"
   </div>
   
 <div class="leader-card">
-       href="{{ '/leadershipteam-bios/Marta-Rivera.html' | relative_url,
-.leader-link:visited,
-.leader-link:hover,
-.leader-link:active,
-.leader-link:focus {
-  color: inherit;
-  text-decoration: none; }}"> 
-      <img
+  <a class="leader-link"
+       href="{{'/leadershipteam-bios/Marta-Rivera.html' | relative_url }}"> 
+      <img 
         src="{{ '/leadershipteam-images/MartaRivera.jpg' | relative_url }}"
         alt="Marta Rivera"
         class="leader-card-photo"
