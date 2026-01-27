@@ -38,7 +38,7 @@ This special link will designate donations to go directly to support WiCS+: http
   <!-- Newsletter -->
   <div class="join-card">
     <div class="join-card-inner">
-      <h2 class="join-title">Leave your contact details to receive information of up-coming events </h2>
+      <h2 class="join-title">Leave your contact details to receive information of up-coming events in WiSC+E </h2>
       <p class="join-text">
         Stay up to date with WiCS-Europe activities, including upcoming events, calls for
         participation, mentoring opportunities, and other initiatives related to EDI in cognitive
