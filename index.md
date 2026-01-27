@@ -58,7 +58,7 @@ We are committed to:
 We are open to new initiatives, activities and meetings.  
 If you’re interested in organizing an event or helping out the current leadership team, please reach out to us.
 
-[👉 **JOIN US**](https://wics-europe.github.io/join-us/)
+[👉 **JOIN US**](join-us.html)
 
 * **Email:** [wics.europe@gmail.com](mailto:wics.europe@gmail.com)
 * **Facebook:** [https://www.facebook.com/WiCSEurope](https://www.facebook.com/WiCSEurope)
