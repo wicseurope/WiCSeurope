@@ -12,7 +12,7 @@ title: "Leadership Team"
 
 <div class="leaders-grid">
 
-<div class="leader-card">
+  <div class="leader-card">
     <a class="leader-link"
        href="{{ '/leadershipteam-bios/Nura-Sidarus.html' | relative_url }}">
       <img
@@ -20,14 +20,14 @@ title: "Leadership Team"
         alt="Nura Sidarus"
         class="leader-card-photo"
         loading="lazy">
-      <h2 class="leader-name">Nura Sidarus </h2>
+      <h2 class="leader-name">Nura Sidarus</h2>
       <p class="leader-pronouns">N/A</p>
-      <p class="leader-affil">Royal Holloway University of London, UK </p>
+      <p class="leader-affil">Royal Holloway University of London, UK</p>
       <p class="leader-pos">Chair</p>
     </a>
   </div>
-  
-<div class="leader-card">
+
+  <div class="leader-card">
     <a class="leader-link"
        href="{{ '/leadershipteam-bios/MJ-Maraver.html' | relative_url }}">
       <img
@@ -35,14 +35,14 @@ title: "Leadership Team"
         alt="María Jesús Maraver"
         class="leader-card-photo"
         loading="lazy">
-      <h2 class="leader-name">María Jesús Maraver </h2>
+      <h2 class="leader-name">María Jesús Maraver</h2>
       <p class="leader-pronouns">She/Her</p>
-      <p class="leader-affil">University of Jaén, Spain </p>
+      <p class="leader-affil">University of Jaén, Spain</p>
       <p class="leader-pos">Co-Chair</p>
     </a>
   </div>
 
-<div class="leader-card">
+  <div class="leader-card">
     <a class="leader-link"
        href="{{ '/leadershipteam-bios/Matilde-Simonetti.html' | relative_url }}">
       <img
@@ -50,24 +50,24 @@ title: "Leadership Team"
         alt="Matilde Simonetti"
         class="leader-card-photo"
         loading="lazy">
-      <h2 class="leader-name">Matilde Simonetti </h2>
+      <h2 class="leader-name">Matilde Simonetti</h2>
       <p class="leader-pronouns">She/Her</p>
-      <p class="leader-affil">RWTH Aachen University, Germany </p>
-      <p class="leader-pos">Communication Coordinator: Linkedin and Website </p>
+      <p class="leader-affil">RWTH Aachen University, Germany</p>
+      <p class="leader-pos">Communication Coordinator: Linkedin and Website</p>
     </a>
   </div>
-  
-<div class="leader-card">
-  <a class="leader-link"
-       href="{{'/leadershipteam-bios/Marta-Rivera.html' | relative_url }}"> 
-      <img 
+
+  <div class="leader-card">
+    <a class="leader-link"
+       href="{{ '/leadershipteam-bios/Marta-Rivera.html' | relative_url }}">
+      <img
         src="{{ '/leadershipteam-images/MartaRivera.jpg' | relative_url }}"
         alt="Marta Rivera"
         class="leader-card-photo"
         loading="lazy">
-      <h2 class="leader-name">Marta Rivera </h2>
+      <h2 class="leader-name">Marta Rivera</h2>
       <p class="leader-pronouns">She/Her</p>
-      <p class="leader-affil">University of The Balearic Islands, Spain </p>
+      <p class="leader-affil">University of The Balearic Islands, Spain</p>
       <p class="leader-pos">Communication Coordinator: BlueSky and Website</p>
     </a>
   </div>
@@ -81,7 +81,7 @@ title: "Leadership Team"
         class="leader-card-photo"
         loading="lazy">
       <h2 class="leader-name">Rachelle Ho</h2>
-      <p class="leader-pronouns">N/A </p>
+      <p class="leader-pronouns">N/A</p>
       <p class="leader-affil">University of Aberdeen, Scotland</p>
     </a>
   </div>
@@ -100,7 +100,7 @@ title: "Leadership Team"
     </a>
   </div>
 
- <div class="leader-card">
+  <div class="leader-card">
     <a class="leader-link"
        href="{{ '/leadershipteam-bios/Andrea-Kiesel.html' | relative_url }}">
       <img
@@ -108,30 +108,27 @@ title: "Leadership Team"
         alt="Andrea Kiesel"
         class="leader-card-photo"
         loading="lazy">
-      <h2 class="leader-name">Andrea Kiesel </h2>
+      <h2 class="leader-name">Andrea Kiesel</h2>
       <p class="leader-pronouns">N/A</p>
-      <p class="leader-affil">University of Freiburg, Germany </p>
+      <p class="leader-affil">University of Freiburg, Germany</p>
     </a>
   </div>
 
-
-
-<div class="leader-card">
+  <div class="leader-card">
     <a class="leader-link"
        href="{{ '/leadershipteam-bios/Ronja-Mueller.html' | relative_url }}">
       <img
         src="{{ '/leadershipteam-images/RonjaMueller.JPG' | relative_url }}"
-        alt="Rachelle Ho"
+        alt="Ronja Mueller"
         class="leader-card-photo"
         loading="lazy">
       <h2 class="leader-name">Ronja Mueller</h2>
-      <p class="leader-pronouns">N/A </p>
+      <p class="leader-pronouns">N/A</p>
       <p class="leader-affil">Medical School Hamburg, Germany</p>
     </a>
   </div>
 
-
-<div class="leader-card">
+  <div class="leader-card">
     <a class="leader-link"
        href="{{ '/leadershipteam-bios/Zofia-Wodniecka.html' | relative_url }}">
       <img
@@ -140,7 +137,7 @@ title: "Leadership Team"
         class="leader-card-photo"
         loading="lazy">
       <h2 class="leader-name">Zofia Wodniecka</h2>
-      <p class="leader-pronouns">N/A </p>
+      <p class="leader-pronouns">N/A</p>
       <p class="leader-affil">Jagiellonian University, Poland</p>
     </a>
   </div>
@@ -177,6 +174,9 @@ title: "Leadership Team"
   padding: 1rem 0.75rem;
   text-align: center;
 
+  /* ✅ color base para que el "inherit" sea estable */
+  color: #222;
+
   /* 🔵 sombra azul */
   box-shadow:
     0 4px 12px rgba(0, 102, 204, 0.15),
@@ -193,10 +193,17 @@ title: "Leadership Team"
     0 0 0 1px rgba(0, 102, 204, 0.15);
 }
 
-.leader-link {
+/* ✅ Enlace: forzar todas las pseudoclases (incluye visited) */
+.leader-link,
+.leader-link:link,
+.leader-link:visited,
+.leader-link:hover,
+.leader-link:active,
+.leader-link:focus {
   text-decoration: none;
   color: inherit;
   display: block;
+  outline: none;
 }
 
 /* FOTO */
@@ -229,6 +236,10 @@ title: "Leadership Team"
   font-size: 0.9rem;
   opacity: 0.8;
 }
+
+.leader-pos {
+  margin: 0.35rem 0 0;
+  font-size: 0.9rem;
+  opacity: 0.9;
+}
 </style>
-
-
