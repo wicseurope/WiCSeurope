@@ -36,7 +36,7 @@ title: "Advisory Board"
        rel="noopener noreferrer"
        aria-label="Visit personal page of Eva van den Bussche">
 <img
-        src="{{ '/advisory-board-images/EvavandenBussche.png' | relative_url }}"
+        src="{{ '/advisory-board-images/EvavandenBussche.jpg' | relative_url }}"
         alt="Eva van den Bussche"
         class="leader-card-photo"
         loading="lazy">
