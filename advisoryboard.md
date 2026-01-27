@@ -24,7 +24,6 @@ title: "Advisory Board"
         loading="lazy">
 
   <h2 class="leader-name">Teresa Bajo</h2>
-      <p class="leader-pronouns">N/A</p>
       <p class="leader-affil">University of Granada, Spain</p>
 
     </a>
@@ -43,7 +42,7 @@ title: "Advisory Board"
         loading="lazy">
 
   <h2 class="leader-name">Eva van den Bussche</h2>
-      <p class="leader-pronouns">N/A</p>
+      <p class="leader-pronouns">She/Her</p>
       <p class="leader-affil"> KU Leuven, Belgium </p>
 
     </a>
@@ -62,7 +61,7 @@ title: "Advisory Board"
         loading="lazy">
 
   <h2 class="leader-name">Valerie Camos</h2>
-      <p class="leader-pronouns">N/A</p>
+      <p class="leader-pronouns">She/her</p>
       <p class="leader-affil">Université de Fribourg, Switzerland</p>
 
     </a>
@@ -81,7 +80,6 @@ title: "Advisory Board"
         loading="lazy">
 
   <h2 class="leader-name">Anne Christophe</h2>
-      <p class="leader-pronouns">N/A</p>
       <p class="leader-affil"> Ecole Normale Superieure, Paris, France </p>
 
     </a>
@@ -100,7 +98,7 @@ title: "Advisory Board"
         loading="lazy">
 
   <h2 class="leader-name">Wilfried Kunde</h2>
-      <p class="leader-pronouns">N/A</p>
+      <p class="leader-pronouns">He/Him</p>
       <p class="leader-affil">Würzburg University, Germany</p>
 
     </a>
@@ -108,7 +106,7 @@ title: "Advisory Board"
 
   <div class="leader-card">
     <a class="leader-link"
-       href="https://www.bristol.ac.uk/people/person/Stephan-Lewandowsky-ebfa6836-6895-4acf-b57b-b2acdf30ec99/"
+       href="https://www.lewan.uk/"
        target="_blank"
        rel="noopener noreferrer"
        aria-label="Visit personal page of Stephan Lewandowsky">
@@ -119,7 +117,7 @@ title: "Advisory Board"
         loading="lazy">
 
   <h2 class="leader-name">Stephan Lewandowsky</h2>
-      <p class="leader-pronouns">N/A</p>
+      <p class="leader-pronouns">He/Him</p>
       <p class="leader-affil"> University of Bristol, UK </p>
 
     </a>
@@ -138,7 +136,6 @@ title: "Advisory Board"
         loading="lazy">
 
   <h2 class="leader-name">Alessandra Souza</h2>
-      <p class="leader-pronouns">N/A</p>
       <p class="leader-affil"> University of Porto, Portugal </p>
 
     </a>
@@ -157,7 +154,6 @@ title: "Advisory Board"
         loading="lazy">
 
   <h2 class="leader-name">Anna Soveri</h2>
-      <p class="leader-pronouns">N/A</p>
       <p class="leader-affil">University, Turku, Finland</p>
 
     </a>
@@ -177,7 +173,6 @@ title: "Advisory Board"
         loading="lazy">
 
   <h2 class="leader-name">Gabriella Vigliocco</h2>
-      <p class="leader-pronouns">N/A</p>
       <p class="leader-affil"> University College London, UK</p>
 
     </a>
@@ -196,7 +191,6 @@ title: "Advisory Board"
         loading="lazy">
 
   <h2 class="leader-name">Agnieszka Wykowska</h2>
-      <p class="leader-pronouns">N/A</p>
       <p class="leader-affil"> Italian Institute of Technology, Italy </p>
 
     </a>
