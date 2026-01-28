@@ -85,5 +85,5 @@ sessions, can be found on our  **[Events page]({{ '/events.html' | relative_url 
 
 ### ESCOP2025 event 
 
-Information about most recent ESCOP event WiCS+E events can be found on our  **[Events page]({{ '/events.html' | relative_url }})**
+Information about most recent ESCOP event WiCS+E events can be found  **[here]({{ '/pastevents-summary/ESCOP-2025.html' | relative_url }})**
 
