@@ -30,7 +30,7 @@ title: "Join Us"
       <p class="join-text">
 Through our partnership with the <a href="https://www.psychonomic.org" target="_blank" rel="noopener">Psychonomic Society</a>, WiCS+ is now accepting donations through the Psychonomic Society’s donation page. 
 This <a href="https://lnkd.in/dsiqKt-n" target="_blank" rel="noopener">Special link</a> will designate donations to go directly to support WiCS+ 
-    </div>
+
 
     
 
@@ -49,8 +49,6 @@ This <a href="https://lnkd.in/dsiqKt-n" target="_blank" rel="noopener">Special l
   <strong>
     <a href="https://docs.google.com/forms/d/e/1FAIpQLScF3fBQzLwA6nSXyvhtHVmh_ADpLUj0wKUZYYY3bgnocRVT2g/viewform"> Leave your contact details here!</a>
   </strong>
-    </div>
-  </div>
 
   <!-- Co-organize events -->
   <div class="join-card">
