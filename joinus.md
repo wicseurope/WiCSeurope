@@ -34,10 +34,9 @@ This <a href="https://lnkd.in/dsiqKt-n" target="_blank" rel="noopener">Special l
 
     
 
-  <!-- Newsletter -->
+  <!-- Leave your contact details to receive information of up-coming events in WiSC+E -->
   <div class="join-card">
     <div class="join-card-inner">
-      <h2 class="join-title">Leave your contact details to receive information of up-coming events in WiSC+E </h2>
       <p class="join-text">
         Stay up to date with WiCS-Europe activities, including upcoming events, calls for
         participation, mentoring opportunities, and other initiatives related to EDI in cognitive
@@ -46,10 +45,10 @@ This <a href="https://lnkd.in/dsiqKt-n" target="_blank" rel="noopener">Special l
       <p class="join-text">
         Our events is open to people of <strong>all gender identities</strong>, career stages,
         and disciplines.
-      </p>
-      <p class="join-meta">
-        <em>Form coming soon</em>
-      </p>
+      <br>
+  <strong>
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLScF3fBQzLwA6nSXyvhtHVmh_ADpLUj0wKUZYYY3bgnocRVT2g/viewform"> Leave your contact details here!</a>
+  </strong>
     </div>
   </div>
 
