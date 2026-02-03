@@ -14,16 +14,29 @@ title: "Events"
 
 <div class="events-grid">
 
-  <div class="event-card">
-    <div class="event-card-inner">
-      <h2 class="event-title">Next WiCS+Europe event</h2>
-      <p class="event-subtitle">To be announced</p>
-      <p class="event-meta">
-        Details will be shared soon.<br>
-        Stay tuned!
-      </p>
-    </div>
-  </div>
+ <div class="event-card">
+  <a class="event-link"
+     href="https://lnkd.in/eW-QBNEq"
+     target="_blank" rel="noopener">
+
+    <img src="{{ '/events-images/february_2026.png' | relative_url }}"
+         alt="Building Inclusive Computational Skills flyer"
+         class="event-photo">
+
+    <h2 class="event-title">Building Inclusive Computational Skills</h2>
+
+    <p class="event-subtitle">
+      Online panel · International Women’s Month
+    </p>
+
+    <p class="event-meta">
+      Monday, 23 February 2026<br>
+      13:00–14:30 CET
+    </p>
+
+  </a>
+</div>
+
 
 </div>
 
