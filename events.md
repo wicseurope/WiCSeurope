@@ -236,4 +236,39 @@ title: "Events"
   font-size: 0.9rem;
   opacity: 0.85;
 }
+
+  /* FEATURED (NEXT) EVENT */
+.event-card.featured {
+  grid-column: span 3;
+  padding: 2rem 2.2rem;
+}
+
+.event-card.featured .event-photo {
+  height: 260px;
+}
+
+.event-card.featured .event-title {
+  font-size: 1.6rem;
+}
+
+.event-card.featured .event-subtitle {
+  font-size: 1.05rem;
+}
+
+.event-card.featured .event-meta {
+  font-size: 1rem;
+}
+
+/* Responsive: featured event still looks good on smaller screens */
+@media (max-width: 900px) {
+  .event-card.featured {
+    grid-column: span 2;
+  }
+}
+
+@media (max-width: 560px) {
+  .event-card.featured {
+    grid-column: span 1;
+  }
+}
 </style>
