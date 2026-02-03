@@ -16,7 +16,7 @@ title: "Events"
 
  <div class="event-card">
   <a class="event-link"
-     href="https://lnkd.in/eW-QBNEq"
+     href="=(https://www.eventbrite.co.uk/e/building-inclusive-computational-skills-online-panel-discussion-tickets-1981353031253)"
      target="_blank" rel="noopener">
 
     <img src="{{ '/events-images/february_2026.png' | relative_url }}"
