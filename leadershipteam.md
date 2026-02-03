@@ -21,7 +21,6 @@ title: "Leadership Team"
         class="leader-card-photo"
         loading="lazy">
       <h2 class="leader-name">Nura Sidarus</h2>
-      <p class="leader-pronouns">N/A</p>
       <p class="leader-affil">Royal Holloway University of London, UK</p>
       <p class="leader-pos">Chair</p>
     </a>
@@ -81,7 +80,6 @@ title: "Leadership Team"
         class="leader-card-photo"
         loading="lazy">
       <h2 class="leader-name">Rachelle Ho</h2>
-      <p class="leader-pronouns">N/A</p>
       <p class="leader-affil">University of Aberdeen, Scotland</p>
     </a>
   </div>
@@ -95,7 +93,6 @@ title: "Leadership Team"
         class="leader-card-photo"
         loading="lazy">
       <h2 class="leader-name">Alicia Luque</h2>
-      <p class="leader-pronouns">N/A</p>
       <p class="leader-affil">Nebrija University, Spain</p>
     </a>
   </div>
@@ -123,7 +120,6 @@ title: "Leadership Team"
         class="leader-card-photo"
         loading="lazy">
       <h2 class="leader-name">Ronja Mueller</h2>
-      <p class="leader-pronouns">N/A</p>
       <p class="leader-affil">Medical School Hamburg, Germany</p>
     </a>
   </div>
@@ -137,7 +133,6 @@ title: "Leadership Team"
         class="leader-card-photo"
         loading="lazy">
       <h2 class="leader-name">Zofia Wodniecka</h2>
-      <p class="leader-pronouns">N/A</p>
       <p class="leader-affil">Jagiellonian University, Poland</p>
     </a>
   </div>
