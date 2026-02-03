@@ -76,7 +76,7 @@ If you’re interested in organizing an event or helping out the current leaders
 
 | Event | Details |
 |------|---------|
-| **Building Inclusive Computational Skills** | <img src="events-images/february_2026.png" alt="Building Inclusive Computational Skills flyer" width="500" /><br><br><strong>Online panel</strong><br>Monday, 23 February 2026<br>13:00–14:30 CET<br><br>As part of International Women’s Month, this panel explores why computational methods matter and how to make them more accessible and inclusive across career stages.<br><br>[More information & registration]([https://lnkd.in/eW-QBNEq](https://www.eventbrite.co.uk/e/building-inclusive-computational-skills-online-panel-discussion-tickets-1981353031253) |
+| **Building Inclusive Computational Skills** | <img src="events-images/february_2026.png" alt="Building Inclusive Computational Skills flyer" width="500" /><br><br><strong>Online panel</strong><br>Monday, 23 February 2026<br>13:00–14:30 CET<br><br>As part of International Women’s Month, this panel explores why computational methods matter and how to make them more accessible and inclusive across career stages.<br><br>[More information & registration](https://www.eventbrite.co.uk/e/building-inclusive-computational-skills-online-panel-discussion-tickets-1981353031253)|
 
 
 ### Past Events
