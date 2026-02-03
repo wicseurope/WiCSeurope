@@ -89,8 +89,6 @@ This <a href="https://lnkd.in/dsiqKt-n" target="_blank" rel="noopener">Special l
     </div>
   </div>
 
-</div>
-
 <p style="margin-top: 2.5rem;">
   WiCS-Europe activities and opportunities are open to scientists of
   <strong>all gender identities</strong>, career stages, and backgrounds.
