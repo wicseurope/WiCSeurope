@@ -21,6 +21,7 @@ title: "Leadership Team"
         class="leader-card-photo"
         loading="lazy">
       <h2 class="leader-name">Nura Sidarus</h2>
+      <p class="leader-pronouns">She/Her</p>
       <p class="leader-affil">Royal Holloway University of London, UK</p>
       <p class="leader-pos">Chair</p>
     </a>
@@ -106,7 +107,7 @@ title: "Leadership Team"
         class="leader-card-photo"
         loading="lazy">
       <h2 class="leader-name">Andrea Kiesel</h2>
-      <p class="leader-pronouns">N/A</p>
+      <p class="leader-pronouns"></p>
       <p class="leader-affil">University of Freiburg, Germany</p>
     </a>
   </div>
