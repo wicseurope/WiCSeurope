@@ -4,9 +4,9 @@
   <img src="WiCS-E logo.png" alt="WiCS Europe Logo" width="220" />
 </p>
 
-# WiCS Europe (WiCS+E)
+# Women in Cognitive Science Widening Inclusivity in Cognitive Science - Europe
 
-[**Women in Cognitive Science (WiCS)**](https://www.womenincogsci.org/) sis an umbrella organization dedicated to advancing equity, visibility, and inclusion for all scientists in cognitive science.
+[**Women in Cognitive Science (WiCS)**](https://www.womenincogsci.org/) is an umbrella organization dedicated to advancing equity, visibility, and inclusion for all scientists in cognitive science.
 
 Founded in **2001** by **Drs. [Judith Kroll](https://bilingualismmindbrain.com/lab-members/judith-f-kroll/), Randi Martin, and[ Suparna Rajaram](https://rajarammemorylab.com/suparna-rajaram/)**, WiCS has  worked to celebrate the contributions of women, dismantle systemic barriers, and create professional development opportunities. 
 
