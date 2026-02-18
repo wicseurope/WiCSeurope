@@ -4,7 +4,7 @@ title: "Nura Sidarus"
 ---
 
 <h1>Nura Sidarus </h1>
-<h2 class="bio-pronouns">Pronouns: N/A </h2>
+<h2 class="bio-pronouns">Pronouns: She/Her </h2>
 
 <p><strong>Affiliation:</strong> Royal Holloway University of London, UK  </p>
 
