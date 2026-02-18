@@ -1,12 +1,10 @@
 <!-- WiCS Europe Homepage -->
 
-<p align="center">
+<div style="text-align: center;">
   <img src="WiCS-E logo.png" alt="WiCS Europe Logo" width="220" />
-</p>
-<p align="center">
-<h1>Women in Cognitive Science - Europe</h1>
-<h1>Widening Inclusivity in Cognitive Science - Europe</h1>
-</p>
+  <h1>Women in Cognitive Science - Europe</h1>
+  <h2>Widening Inclusivity in Cognitive Science - Europe</h2>
+</div>
 
 [**Women in Cognitive Science (WiCS)**](https://www.womenincogsci.org/) is an umbrella organization dedicated to advancing equity, visibility, and inclusion for all scientists in cognitive science.
 
