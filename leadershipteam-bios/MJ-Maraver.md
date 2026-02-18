@@ -15,19 +15,16 @@ title: "María Jesús Maraver"
 </p>
 
 <p>
-  María Jesús Maraver is a postdoctoral researcher in cognitive psychology at the Mind, Brain, and Behavior Research Center (CIMCYC) at the University of Granada, Spain. 
-  Her postdoctoral trajectory has taken place at Leiden University, The Netherlands, and at the University of Lisbon, Portugal.
-  Her research interests pursue the study of human cognitive enhancement. How mechanisms of cognitive control and memory can be improved in healthy humans,
-  by means of cognitive training, brain stimulation, or the correction of memory errors, paying special attention to individual differences that can modulate cognitive enhancement,
-  by considering factors such as age, baseline capacities, or motivation.</p>
+María Jesús Maraver is an Assistant Professor at the University of Jaén, at the Developmental and Educational Psychology area in the Department of Psychology. She is a cognitive neuroscience researcher and a collaborator of the Memory and Language Research Group at the Mind, Brain, and Behavior Research Center (CIMCYC) at the University of Granada. Her postdoctoral training took place at CIMCYC, Leiden University (The Netherlands), and the University of Lisbon (Portugal). Her research focuses on human cognitive enhancement, examining how cognitive control and memory can be improved in healthy individuals through cognitive training, brain stimulation, or interventions targeting memory errors. She is particularly interested in how individual differences (such as age, baseline abilities, or motivation) shape the effectiveness of cognitive enhancement methods. At WiCS+E, she serves as secretary and event coordinator, helping strengthen communication within the network and with the broader community.</p>
 
 <p>
 <p class="bio-links">
-  <a class="bio-chip" href="PASTE_PERSONAL_WEBSITE_URL" target="_blank" rel="noopener noreferrer">Website</a>
-  <a class="bio-chip" href="PASTE_ORCID_URL" target="_blank" rel="noopener noreferrer">ORCID</a>
-  <a class="bio-chip" href="PASTE_GOOGLE_SCHOLAR_URL" target="_blank" rel="noopener noreferrer">Google Scholar</a>
-  <a class="bio-chip" href="PASTE_LINKEDIN_URL" target="_blank" rel="noopener noreferrer">LinkedIn</a>
-  <a class="bio-chip" href="mailto:PASTE_EMAIL">Email</a>
+  <a class="bio-chip" href="https://www.memoryugr.es/people/ma-jesus-maraver/" target="_blank" rel="noopener noreferrer">Website</a>
+  <a class="bio-chip" href="https://orcid.org/0000-0001-9831-6238" target="_blank" rel="noopener noreferrer">ORCID</a>
+  <a class="bio-chip" href="https://scholar.google.es/citations?user=wDXfehwAAAAJ&hl=es%20" target="_blank" rel="noopener noreferrer">Google Scholar</a>
+  <a class="bio-chip" href="https://www.linkedin.com/in/mjmaraver/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+  <a class="bio-chip" href="https://bsky.app/profile/maravermj.bsky.social" target="_blank" rel="noopener noreferrer">Bluesky</a>
+  <a class="bio-chip" href="mailto:mmaraver@ujaen.es">Email</a>
 </p>
 
 <p>
