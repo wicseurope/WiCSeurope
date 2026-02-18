@@ -26,10 +26,11 @@ title: "Marta Rivera"
 <p>
 <p class="bio-links">
   <a class="bio-chip" href="https://martarivz.github.io/MartaRiveraZurita/" target="_blank" rel="noopener noreferrer">Website</a>
-  <a class="bio-chip" href="PASTE_ORCID_URL" target="_blank" rel="noopener noreferrer">ORCID</a>
-  <a class="bio-chip" href="PASTE_GOOGLE_SCHOLAR_URL" target="_blank" rel="noopener noreferrer">Google Scholar</a>
-  <a class="bio-chip" href="PASTE_LINKEDIN_URL" target="_blank" rel="noopener noreferrer">LinkedIn</a>
-  <a class="bio-chip" href="mailto:PASTE_EMAIL">Email</a>
+  <a class="bio-chip" href="https://orcid.org/0000-0001-7509-9357" target="_blank" rel="noopener noreferrer">ORCID</a>
+  <a class="bio-chip" href="https://scholar.google.es/citations?user=A-QWHy0AAAAJ&hl=es" target="_blank" rel="noopener noreferrer">Google Scholar</a>
+  <a class="bio-chip" href="https://www.linkedin.com/in/marta-rivera-zurita-082787a6/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+  <a class="bio-chip" href="https://bsky.app/profile/martarivz.bsky.social" target="_blank" rel="noopener noreferrer">Bluesky</a>
+  <a class="bio-chip" href="mailto:marta.rivera@uib.es">Email</a>
 </p>
 
 <p>
