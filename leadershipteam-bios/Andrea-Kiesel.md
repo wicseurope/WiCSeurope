@@ -1,7 +1,7 @@
 
 <h1>Andrea Kiesel </h1>
 
-<h2 class="bio-pronouns">Pronouns: N/A </h2>
+<h2 class="bio-pronouns"></h2>
 <p><strong>Affiliation:</strong> University of Freiburg, Germany </p>
 
 <p>
