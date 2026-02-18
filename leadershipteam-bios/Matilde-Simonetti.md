@@ -20,10 +20,11 @@ title: "Matilde Ellen Simonetti"
 <p>
 <p class="bio-links">
   <a class="bio-chip" href="https://matildellen.github.io/" target="_blank" rel="noopener noreferrer">Website</a>
-  <a class="bio-chip" href="PASTE_ORCID_URL" target="_blank" rel="noopener noreferrer">ORCID</a>
-  <a class="bio-chip" href="PASTE_GOOGLE_SCHOLAR_URL" target="_blank" rel="noopener noreferrer">Google Scholar</a>
-  <a class="bio-chip" href="PASTE_LINKEDIN_URL" target="_blank" rel="noopener noreferrer">LinkedIn</a>
-  <a class="bio-chip" href="mailto:PASTE_EMAIL">Email</a>
+  <a class="bio-chip" href="https://orcid.org/0009-0001-6745-9938" target="_blank" rel="noopener noreferrer">ORCID</a>
+  <a class="bio-chip" href="https://scholar.google.com/citations?user=JmBEc0UAAAAJ&hl=it" target="_blank" rel="noopener noreferrer">Google Scholar</a>
+  <a class="bio-chip" href="https://www.linkedin.com/in/matilde-ellen-simonetti/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+  <a class="bio-chip" href="https://bsky.app/profile/matildellen.bsky.social">BlueSky</a>
+  <a class="bio-chip" href="simonetti@psych.rwth-aachen.de">Email</a>
 </p>
 
 <p>
