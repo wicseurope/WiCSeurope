@@ -4,7 +4,7 @@ title: "Ronja Mueller"
 ---
 
 <h1>Ronja Mueller </h1>
-<h2 class="bio-pronouns">Pronouns: N/A </h2>
+<h2 class="bio-pronouns"></h2>
 
 <p><strong>Affiliation:</strong> Medical School Hamburg, Germany  </p>
 
@@ -57,23 +57,22 @@ title: "Ronja Mueller"
   font-weight: 500;
 }
 
-.bio-photo{
-  max-width: 220px;
-  width: 100%;
-  height: auto;
-  border-radius: 50%;
-  margin: 1rem 0;
-  object-fit: cover;
-  aspect-ratio: 1 / 1;
-  background: #f2f6fb;
+.bio-links a.bio-chip {
+  text-decoration: none;
+  color: #1a1a1a;   /* fuerza color concreto */
+  padding: 0.35rem 0.65rem;
+  border-radius: 999px;
+  background: #ffffff;
+  font-size: 0.95rem;
+  box-shadow:
+    0 2px 8px rgba(0, 102, 204, 0.18),
+    0 0 0 1px rgba(0, 102, 204, 0.12);
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+.bio-links a.bio-chip:visited {
+  color: #1a1a1a;
 }
 
-.bio-links{
-  margin: 1.5rem 0 0.75rem;
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.5rem;
-}
 
 .bio-chip{
   text-decoration: none;
