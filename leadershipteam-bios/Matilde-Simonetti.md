@@ -50,17 +50,9 @@ title: "Matilde Ellen Simonetti"
   aspect-ratio: 1 / 1;
   background: #f2f6fb;
 }
-
-.bio-links{
-  margin: 1.5rem 0 0.75rem;
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.5rem;
-}
-
-.bio-chip{
+.bio-links a.bio-chip {
   text-decoration: none;
-  color: inherit;
+  color: #1a1a1a;   /* fuerza color concreto */
   padding: 0.35rem 0.65rem;
   border-radius: 999px;
   background: #ffffff;
@@ -70,6 +62,10 @@ title: "Matilde Ellen Simonetti"
     0 0 0 1px rgba(0, 102, 204, 0.12);
   transition: transform 0.15s ease, box-shadow 0.15s ease;
 }
+.bio-links a.bio-chip:visited {
+  color: #1a1a1a;
+}
+
 
 .bio-chip:hover{
   transform: translateY(-1px);
