@@ -4,7 +4,7 @@ title: "Alicia Luque"
 ---
 
 <h1>Alicia Luque </h1>
-<h2 class="bio-pronouns">Pronouns: N/A </h2>
+<h2 class="bio-pronouns"></h2>
 
 <p><strong>Affiliation:</strong> Nebrija University, Spain  </p>
 
