@@ -45,6 +45,8 @@ This <a href="https://lnkd.in/dsiqKt-n" target="_blank" rel="noopener">Special l
         <strong>
     <a href="https://docs.google.com/forms/d/e/1FAIpQLScF3fBQzLwA6nSXyvhtHVmh_ADpLUj0wKUZYYY3bgnocRVT2g/viewform"> Leave your contact details here!</a>
   </strong>
+
+      
       <p class="join-text">
         Our events is open to people of <strong>all gender identities</strong>, career stages,
         and disciplines.
