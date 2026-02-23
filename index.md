@@ -14,6 +14,8 @@ Due to the historical underrepresentation of women in academia, WiCS emerged fro
 In **2021**, WiCS broadened its mission to **WiCS+**, recognising its origins and standing also for Widening Inclusivity in Cognitive Science, signaling a stronger commitment to inclusivity for all historically underrepresented groups in cognitive science. This expansion includes promoting **diversity, equity, and inclusion across intersecting identities such as race, ethnicity, gender, ability, and socioeconomic background**. WiCS+ is now a worldwide network with active chapters in [Canada](https://wicsc.ca/) and Europe, and it continues to grow - expanding its reach, building connections, and shaping a more inclusive future for cognitive science.
 
 Through mentorship, advocacy, and community‑building, WiCS+ empowers a global network of scholars and works toward a more inclusive and equitable field of cognitive science. Central to WiCS+ is the creation of **safe, inclusive spaces free of violence, discrimination, and harassment**, grounded in mutual respect, dignity, and human rights.
+
+
 To learn how this idea first took shape and matured into a long‑lasting effort supporting gender equity in cognitive science, please read: Martin, R. C., & Rajaram, S. (2024). The founding and growth of women in cognitive science: An enduring legacy of Judith Kroll. The American Journal of Psychology, 137(2), 215–223, [DOI](https://doi.org/10.5406/19398298.137.2.12).
 
 
