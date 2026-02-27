@@ -12,12 +12,15 @@ title: "Events"
 
 <h2>Next events</h2>
 
+<p>
+  Upcoming events will be announced soon.
+</p>
+
+<h2 style="margin-top: 3rem;">Last Event</h2>
+
 <div class="event-card featured">
-  
- <div class="event-card">
   <a class="event-link"
-     href="https://www.eventbrite.co.uk/e/building-inclusive-computational-skills-online-panel-discussion-tickets-1981353031253"
-     target="_blank" rel="noopener">
+     href="{{ '/pastevents-summary/Building_Inclusive_Computational_Skills.html' | relative_url }}">
 
     <img src="{{ '/events-images/february_2026.png' | relative_url }}"
          alt="Building Inclusive Computational Skills flyer"
@@ -30,14 +33,10 @@ title: "Events"
     </p>
 
     <p class="event-meta">
-      Monday, 23 February 2026<br>
-      13:00–14:30 CET
+      23 February 2026 · Online
     </p>
 
   </a>
-</div>
-
-
 </div>
 
 <h2 style="margin-top: 3rem;">Past events</h2>
@@ -47,8 +46,6 @@ title: "Events"
   <div class="event-card">
     <a class="event-link"
        href="{{ '/pastevents-summary/ESCOP-2025.html' | relative_url }}">
-      <!-- future image goes here -->
-      <!-- <img src="{{ '/pastevents-photos/escop2025.jpg' | relative_url }}" class="event-photo"> -->
       <h2 class="event-title">WiCS+Europe at ESCOP2025</h2>
       <p class="event-subtitle">Creating inclusive and safe academic spaces</p>
       <p class="event-meta">Sheffield, UK · 2 September 2025</p>
