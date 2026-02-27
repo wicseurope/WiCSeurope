@@ -76,7 +76,22 @@ If you’re interested in organizing an event or helping out the current leaders
 
 ## Events
 ### Upcoming Events
+To be announced.
 
+### LAST EVENT
+
+| Event | Details |
+|------|---------|
+| **Building Inclusive Computational Skills** | <img src="events-images/february_2026.png" alt="Building Inclusive Computational Skills flyer" width="500" /><br><br><strong>Online panel · International Women’s Month</strong><br>23 February 2026<br><br>This online panel brought together researchers to discuss gender gaps in coding and modelling, how stereotypes shape confidence, and how to build inclusive computational skills across career stages.<br><br>[Read the event highlights]({{ '/pastevents-summary/Building_Inclusive_Computational_Skills.html' | relative_url }}) |
+
+---
+
+### Past Events
+
+Information about past WiCS+E events, including panel discussions, seminars, and mentoring
+sessions, can be found on our **[Events page]({{ '/events.html' | relative_url }})**
+
+---
 | Event | Details |
 |------|---------|
 | **Building Inclusive Computational Skills** | <img src="events-images/february_2026.png" alt="Building Inclusive Computational Skills flyer" width="500" /><br><br><strong>Online panel</strong><br>Monday, 23 February 2026<br>13:00–14:30 CET<br><br>As part of International Women’s Month, this panel explores why computational methods matter and how to make them more accessible and inclusive across career stages.<br><br>[More information & registration](https://www.eventbrite.co.uk/e/building-inclusive-computational-skills-online-panel-discussion-tickets-1981353031253)|
