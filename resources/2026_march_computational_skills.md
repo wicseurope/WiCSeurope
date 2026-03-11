@@ -12,6 +12,7 @@ Here you can find all **slides and resources** shared during the **Women in Cogn
 # 🎤 Event Slides
 
 Slides from the speakers:
+
 📄 **Introduction**  
 [Download slides]( {{ '/resources/march_2026_event/Introduction.pdf' | relative_url }} )
 
