@@ -16,9 +16,12 @@ Meetings will be held three different days and three times each week. You are we
 </ul>
 
 You can sign-up <a href="https://docs.google.com/forms/d/e/1FAIpQLScnotepQuc8T7RP6wCXWU9ixTHRF1AiJkM5lPCNa2Yq_fUJvw/viewform">here</a>
-
-This is a regular activity in the network, stay tunned for next editions.
 </p>
+
+<p>
+This is a regular activity in the network, stay tuned for next editions.
+</p>
+
 
 <h2>Events' Resources </h2>
 <p>
