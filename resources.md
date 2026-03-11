@@ -13,7 +13,7 @@ title: "Resources"
 
 <div class="event-card featured">
   <a class="event-link"
-     href="{{ '/resources/marchevent2026' | relative_url }}">
+     href="{{ '/resources/2026_march_computational_skills' | relative_url }}">
 
     <img src="{{ '/events-images/february_2026.png' | relative_url }}"
          alt="Building Inclusive Computational Skills flyer"
