@@ -9,11 +9,13 @@ title: "Resources"
 <p>
 The Spring 2026 writing groups will be open to all on a drop in basis starting February 1 - May 15, 2026. 
 Meetings will be held three different days and three times each week. You are welcome to join as often as you like, but there is no commitment. 
-- Tuesdays 2-4 pm EST / 20:00-22:00 CEST
-- Wednesdays 11-1 pm EST / 17:00-19:00 CEST
-- Thursdays 10-12 noon EST / 16:00-18:00 CEST
+<ul>
+<li>Tuesdays 2-4 pm EST / 20:00-22:00 CEST</li>
+<li>Wednesdays 11-1 pm EST / 17:00-19:00 CEST</li>
+<li>Thursdays 10-12 noon EST / 16:00-18:00 CEST</li>
+</ul>
 
-You can sign-up [here](https://docs.google.com/forms/d/e/1FAIpQLScnotepQuc8T7RP6wCXWU9ixTHRF1AiJkM5lPCNa2Yq_fUJvw/viewform) 
+You can sign-up <a href="https://docs.google.com/forms/d/e/1FAIpQLScnotepQuc8T7RP6wCXWU9ixTHRF1AiJkM5lPCNa2Yq_fUJvw/viewform">here</a>
 
 This is a regular activity in the network, stay tunned for next editions.
 </p>
