@@ -32,31 +32,31 @@ Before attending the sessions, please make sure you have completed the following
 # 🎤 Workshop Materials
 
 ## 👩‍💻 Session 1 – Introduction to PsychoPy (04.03)
-- 📂 [Resources from Session 1]({{ '/resources/2026_psychopy/session_1/' | relative_url }})
+- 📂 [Resources from Session 1]({{ '/resources/2026_psychopy/Session_1/' | relative_url }})
 - 🎥 [Recording from Session 1]({{ 'https://drive.google.com/file/d/14DnVkT5WECbwh-9J4aeq2Cb9femRyKkC/view?usp=drive_link' | relative_url }})
   
 ---
 
 ## ⭐ Bonus Session – Your First Pull Request (09.03)
-- 📂 [Resources from Bonus Session]({{ '/resources/2026_psychopy/bonus_session/' | relative_url }})
+- 📂 [Resources from Bonus Session]({{ '/resources/2026_psychopy/Bonus_Session/' | relative_url }})
 - 🎥 [Recording from Bonus Session]({{ 'https://drive.google.com/file/d/1bf81j1hxd4Wy_suaA9Dz1dhPIh0PVKoI/view?usp=drive_link' | relative_url }})
   
 ---
 
 ## 🧪 Session 2 – Advancing PsychoPy with Python Code (11.03)
-- 📂 [Resources from Session 2]({{ '/resources/2026_psychopy/session_2/' | relative_url }})
+- 📂 [Resources from Session 2]({{ '/resources/2026_psychopy/Session_2/' | relative_url }})
 - 🎥 [Recording from Session 2]({{ 'https://drive.google.com/file/d/1ZdTTu43e7LcVV06wJsz1bnHYg5Co_TOj/view?usp=drive_link' | relative_url }})
 
 ---
 
 ## 🌐 Session 3 – Online experiments with Pavlovia.org (18.03)
-- 📂 [Resources from Session 3]({{ '/resources/2026_psychopy/session_3/' | relative_url }})
+- 📂 [Resources from Session 3]({{ '/resources/2026_psychopy/Session_3/' | relative_url }})
 - 🎥 [Recording from Session 3]({{ 'https://drive.google.com/file/d/1EtABxQEVL3HlM8IKp9B8JAtxyYaG_91U/view?usp=drive_link' | relative_url }})
 
 ---
 
 ## 📊 Session 4 – Creating an Eyetracking experiment in PsychoPy (25.03)
-- 📂 [Resources from Session 4]({{ '/resources/2026_psychopy/session_4/' | relative_url }})
+- 📂 [Resources from Session 4]({{ '/resources/2026_psychopy/Session_4/' | relative_url }})
 - 🎥 [Recording from Session 4]({{ 'https://drive.google.com/file/d/1dQM1ApwhP85JJ5oT2_POfpISNj7rnOp4/view?usp=drive_link' | relative_url }})
 
 
