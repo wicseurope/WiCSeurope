@@ -52,7 +52,7 @@ This is a regular activity in the network, stay tuned for next editions.
   <a class="event-link"
      href="{{ '/resources/2026_psychopyforwics' | relative_url }}">
 
-    <img src="{{ '/events-images/february_2026.png' | relative_url }}"
+    <img src="{{ '/events-images/psychopy_2026.png' | relative_url }}"
          alt="Building Inclusive Computational Skills flyer"
          class="event-photo">
 
