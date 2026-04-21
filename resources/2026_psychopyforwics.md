@@ -1,0 +1,64 @@
+---
+layout: default
+title: "PsychoPy for WiCS – Resources"
+---
+
+# 📚 PsychoPy for Women in Cognitive Science (WiCS) – Resources
+
+Here you can find all **slides, recordings, and materials** shared during the  
+**PsychoPy for Women in Cognitive Science (WiCS) – Collaborative Workshop Series**.
+
+---
+
+# 📘 What to do in advance
+
+Before attending the sessions, please make sure you have completed the following steps:
+
+- Install the **latest stable version of PsychoPy (2026.1.0)** from  
+  [https://www.psychopy.org/download.html](https://www.psychopy.org/download.html)
+
+- For **Session 3**, create a **Pavlovia account** using your institutional email:  
+  [https://pavlovia.org](https://pavlovia.org)
+
+- If you are attending **Session 2 or Session 3 without Session 1**,  
+  we will share the necessary materials beforehand. Please **download them before the session**.
+
+- If possible, using **two monitors** can be helpful:
+  - one to watch the recording of the Zoom session
+  - one to follow along while building your experiment in PsychoPy
+
+---
+
+# 🎤 Workshop Materials
+
+## 👩‍💻 Session 1 – Introduction to PsychoPy
+- 📂 [Resources from Session 1]({{ '/resources/2026_psychopy/session_1/' | relative_url }})
+- 🎥 [Recording from Session 1]({{ 'https://drive.google.com/file/d/14DnVkT5WECbwh-9J4aeq2Cb9femRyKkC/view?usp=drive_link' | relative_url }})
+
+---
+
+## 🧪 Session 2 – Extending PsychoPy with Code
+- 📂 [Resources from Session 2]({{ '/resources/2026_psychopy/session_2/' | relative_url }})
+- 🎥 [Recording from Session 2]({{ 'https://drive.google.com/file/d/1ZdTTu43e7LcVV06wJsz1bnHYg5Co_TOj/view?usp=drive_link' | relative_url }})
+
+---
+
+## 🌐 Session 3 – Running Online Experiments
+- 📂 [Resources from Session 3]({{ '/resources/2026_psychopy/session_3/' | relative_url }})
+- 🎥 [Recording from Session 3]({{ 'https://drive.google.com/file/d/1EtABxQEVL3HlM8IKp9B8JAtxyYaG_91U/view?usp=drive_link' | relative_url }})
+
+---
+
+## 📊 Session 4 – Eyetracking Experiments with PsychoPy
+- 📂 [Resources from Session 4]({{ '/resources/2026_psychopy/session_4/' | relative_url }})
+- 🎥 [Recording from Session 4]({{ 'https://drive.google.com/file/d/1dQM1ApwhP85JJ5oT2_POfpISNj7rnOp4/view?usp=drive_link' | relative_url }})
+
+---
+
+## ⭐ Bonus Session – Your First Pull Request
+- 📂 [Resources from Bonus Session]({{ '/resources/2026_psychopy/bonus_session/' | relative_url }})
+- 🎥 [Recording from Bonus Session]({{ 'https://drive.google.com/file/d/1bf81j1hxd4Wy_suaA9Dz1dhPIh0PVKoI/view?usp=drive_link' | relative_url }})
+
+---
+
+⬅️ [Back to main page]({{ '/' | relative_url }})
