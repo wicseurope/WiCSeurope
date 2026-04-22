@@ -5,7 +5,7 @@ title: "Resources"
 
 <h1>Resources</h1>
 
-<h2>Ongoing Writting groups at the WiCS+ Network </h2>
+<h2>Ongoing Writing groups at the WiCS+ Network </h2>
 <p>
 The Spring 2026 writing groups will be open to all on a drop in basis starting February 1 - May 15, 2026. 
 Meetings will be held three different days and three times each week. You are welcome to join as often as you like, but there is no commitment. 
