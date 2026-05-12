@@ -121,6 +121,7 @@ title: "Leadership Team"
         class="leader-card-photo"
         loading="lazy">
       <h2 class="leader-name">Ronja Mueller</h2>
+      <p class="leader-pronouns">She/Her</p>
       <p class="leader-affil">Medical School Hamburg, Germany</p>
     </a>
   </div>
