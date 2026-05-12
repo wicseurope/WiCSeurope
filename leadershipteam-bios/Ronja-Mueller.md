@@ -4,7 +4,7 @@ title: "Ronja Mueller"
 ---
 
 <h1>Ronja Mueller </h1>
-<h2 class="bio-pronouns"></h2>
+<h2 class="bio-pronouns">Pronouns: She/Her </h2>
 
 <p><strong>Affiliation:</strong> Medical School Hamburg, Germany  </p>
 
