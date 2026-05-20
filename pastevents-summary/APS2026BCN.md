@@ -7,7 +7,8 @@ title: "WiCS+Europe at APS2026"
 
 <p><strong>Event:</strong> WiCS+Europe at APS2026, Barcelona, Spain</p>
 <p><strong>Date & Time:</strong> Thursday, 28 May, 15:00 – 16:50 (3:00 pm – 4:50 pm)</p>
-<p><strong>Context:</strong> APS2026 Satellite Event</p>
+<p><strong>Context:</strong> [APS2026 Participating Organization event] 
+(https://www.psychologicalscience.org/conventions/2026-aps-annual-convention/participating-organizations)</p> 
 <p><strong>Location:</strong> Room 124 </p>
 
 <h2>Collaborative Science for a Complex World:</h2>
@@ -56,6 +57,7 @@ APS Immediate Past President
 <ul>
   <li><strong>María J. Maraver</strong>, University of Jaén, Spain</li>
 </ul>
+
 
 <p>
   <a href="{{ '/' | relative_url }}">⟵ Back to main page</a>
