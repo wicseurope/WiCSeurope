@@ -74,18 +74,89 @@ If you’re interested in organizing an event or helping out the current leaders
 
 ---
 
-## Events
-### Upcoming Events
-| Event | Details |
-|------|---------|
-| **Collaborative Science for a Complex World: Integrating Perspectives Across Psychological Domains** | <img src="events-images/APS_2026.png" alt="APS flyer" width="500" /><br><br><strong>APS2026 · Barcelona</strong><br>28.05.2026<br><br>This WiCS+E session will open the discussion on how collaboration across political psychology, cognitive science, occupational health, and computational social science can strengthen theory, methodological rigor, and real-world impact.<br><br>[Read more about it]({{ 'https://wicseurope.github.io/WiCSeurope/pastevents-summary/APS2026BCN' | relative_url }}) |
----
-### LAST EVENT
+<h3>Upcoming Events</h3>
 
-| Event | Details |
-|------|---------|
-| **PsychoPy for Women in Cognitive Science** | <img src="events-images/psychopy_2026.png" alt="Psychopy for WICS+E flyer" width="500" /><br><br><strong>Collaborative workhop series · International Women’s Month</strong><br>March 2026<br><br>An online series of workshops to learn how to use PsychoPy.<br><br>[All the resources]({{ 'https://wicseurope.github.io/WiCSeurope/resources/2026_psychopyforwics' | relative_url }}) |
+<table>
+  <tr>
+    <th>Event</th>
+    <th>Details</th>
+  </tr>
 
+  <tr>
+    <td>
+      <strong>
+        Collaborative Science for a Complex World:
+        Integrating Perspectives Across Psychological Domains
+      </strong>
+    </td>
+
+    <td>
+      <img src="events-images/APS_2026.png"
+           alt="APS flyer"
+           width="500">
+
+      <p>
+        <strong>APS2026 · Barcelona</strong><br>
+        28.05.2026
+      </p>
+
+      <p>
+        This WiCS+E session will open the discussion on how collaboration
+        across political psychology, cognitive science, occupational health,
+        and computational social science can strengthen theory,
+        methodological rigor, and real-world impact.
+      </p>
+
+      <p>
+        <a href="{{ '/pastevents-summary/APS2026BCN' | relative_url }}">
+          Read more about it
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<hr>
+
+<h3>Last Event</h3>
+
+<table>
+  <tr>
+    <th>Event</th>
+    <th>Details</th>
+  </tr>
+
+  <tr>
+    <td>
+      <strong>PsychoPy for Women in Cognitive Science</strong>
+    </td>
+
+    <td>
+      <img src="events-images/psychopy_2026.png"
+           alt="Psychopy for WICS+E flyer"
+           width="500">
+
+      <p>
+        <strong>
+          Collaborative workshop series · International Women’s Month
+        </strong><br>
+        March 2026
+      </p>
+
+      <p>
+        An online series of workshops to learn how to use PsychoPy.
+      </p>
+
+      <p>
+        <a href="{{ '/resources/2026_psychopyforwics' | relative_url }}">
+          All the resources
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<hr>
 ---
 
 ### Past Events
