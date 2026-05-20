@@ -46,6 +46,7 @@ complex human behavior and equip psychological science to confront complex curre
 Computational social science and responsible AI; data‑driven methods to diagnose misinformation, democratic risks,
      and large‑scale social dynamics, complementing psychological theory to enhance real‑world impact.
   </li>
+  
 <h3>Discussant</h3>
 <ul>
 <strong>Randi Martin </strong>, Rice University, USA</li>
