@@ -13,7 +13,26 @@ title: "Events"
 <h2>Next events</h2>
 
 <p>
-  Upcoming events will be announced soon.
+  <div class="event-card featured">
+  <a class="event-link"
+     href="{{ '/pastevents-summary/APS2026BCN.html' | relative_url }}">
+
+    <img src="{{ '/events-images/APS_2026.png' | relative_url }}"
+         alt="APS flyer"
+         class="event-photo">
+
+    <h2 class="event-title">Collaborative Science for a Complex World:Integrating Perspectives Across Psychological Domains</h2>
+
+    <p class="event-subtitle">
+      APS2026 · Barcelona
+    </p>
+
+    <p class="event-meta">
+      28 May 2026 · 15:00 – 16:50
+    </p>
+
+  </a>
+</div>
 </p>
 
 <h2 style="margin-top: 3rem;">Last Event</h2>
