@@ -24,7 +24,7 @@ complex human behavior and equip psychological science to confront complex curre
 </p>
 
 
-<h3>Speakers</h3>
+<h3>Invited Speakers</h3>
 <ul>
   <li>
     <strong>Clara Pretus</strong>, Universitat Autònoma de Barcelona, Spain USA<br>
