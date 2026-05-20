@@ -53,7 +53,7 @@ APS Immediate Past President
 </ul>
 
 <h3>WiCS+Europe Chairs</h3>
-<p><strong>*María J. Maraver</strong> <a href="[https://www.psychologicalscience.org/conventions/2026-aps-annual-convention/participating-organizations](https://wicseurope.github.io/WiCSeurope/leadershipteam-bios/MJ-Maraver)">University of Jaén, Spain 
+<p> <a href="[https://www.psychologicalscience.org/conventions/2026-aps-annual-convention/participating-organizations](https://wicseurope.github.io/WiCSeurope/leadershipteam-bios/MJ-Maraver)"><strong>María J. Maraver</strong>, University of Jaén, Spain 
 
 <p>
   <a href="{{ '/' | relative_url }}">⟵ Back to main page</a>
