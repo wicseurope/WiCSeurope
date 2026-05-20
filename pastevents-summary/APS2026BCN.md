@@ -54,7 +54,7 @@ APS Immediate Past President
 
 <h3>WiCS+Europe Chairs</h3>
 
-  [**María J. Maraver**](https://wicseurope.github.io/WiCSeurope/leadershipteam-bios/MJ-Maraver.html), University of Jaén, Spain
+  [**María J. Maraver**](https://wicseurope.github.io/WiCSeurope/leadershipteam-bios/MJ-Maraver), University of Jaén, Spain
 
 
 
