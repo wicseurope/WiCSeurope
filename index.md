@@ -78,7 +78,7 @@ If you’re interested in organizing an event or helping out the current leaders
 ### Upcoming Events
 | Event | Details |
 |------|---------|
-| **Collaborative Science for a Complex World: Integrating Perspectives Across Psychological Domains** | <img src="events-images/APS_2026.png" alt="APS flyer" width="500" /><br><br><strong> APS2026 · Barcelona</strong><br>28.05.2026<br><br>This WiCS+E session will open the discussion on how collaboration across political psychology, cognitive science, occupational health, and computational social science can strengthen theory, methodological rigor, and real-world impact.<br><br>[Read more about it]({{ 'https://github.com/wicseurope/WiCSeurope/blob/main/pastevents-summary/APS2026BCN.md' | relative_url }}) |
+| **Collaborative Science for a Complex World: Integrating Perspectives Across Psychological Domains** | <img src="events-images/APS_2026.png" alt="APS flyer" width="500" /><br><br><strong> APS2026 · Barcelona</strong><br>28.05.2026<br><br>This WiCS+E session will open the discussion on how collaboration across political psychology, cognitive science, occupational health, and computational social science can strengthen theory, methodological rigor, and real-world impact.<br><br>[Read more about it]({{ 'https://github.com/wicseurope/WiCSeurope/blob/main/pastevents-summary/APS2026BCN' | relative_url }}) |
 
 ### LAST EVENT
 
