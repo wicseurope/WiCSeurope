@@ -7,7 +7,7 @@ title: "WiCS+Europe at APS2026"
 
 <p><strong>Event:</strong> WiCS+Europe at APS2026, Barcelona, Spain</p>
 <p><strong>Date & Time:</strong> Thursday, 28 May, 15:00 – 16:50 (3:00 pm – 4:50 pm)</p>
-<p><strong>Context:</strong> [**APS2026 Participating Organization event(WiCS)**](https://www.psychologicalscience.org/conventions/2026-aps-annual-convention/participating-organizations)</p> 
+<p><strong>Context:</strong> <a href="https://www.psychologicalscience.org/conventions/2026-aps-annual-convention/participating-organizations">APS2026 Participating Organization event (WiCS)</a></p>
 <p><strong>Location:</strong> Room 124 </p>
 
 <h2>Collaborative Science for a Complex World:</h2>
