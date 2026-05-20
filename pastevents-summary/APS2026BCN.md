@@ -48,7 +48,7 @@ Computational social science and responsible AI; data‑driven methods to diagno
   </li>
 <h3>Discussant</h3>
 <ul>
-  <li><strong>Randi Martin </strong>, Rice University, USA</li>
+<strong>Randi Martin </strong>, Rice University, USA</li>
 APS Immediate Past President
 </ul>
 
