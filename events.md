@@ -1,3 +1,7 @@
+Next events → "To Be Announced"
+APS 2026 moved to Last Event
+Building Inclusive Computational Skills moved into Past Events as the newest entry
+Removed the invalid <p><div>...</div></p> nesting.
 ---
 layout: default
 title: "Events"
@@ -12,16 +16,31 @@ title: "Events"
 
 <h2>Next events</h2>
 
-<p>
-  <div class="event-card featured">
+<div class="event-card featured">
+  <div class="event-card-inner">
+
+    <h2 class="event-title">To Be Announced</h2>
+
+    <p class="event-subtitle">
+      Details of our next WiCS+Europe event will be shared soon.
+    </p>
+
+  </div>
+</div>
+
+<h2 style="margin-top: 3rem;">Last Event</h2>
+
+<div class="event-card featured">
   <a class="event-link"
      href="{{ '/pastevents-summary/APS2026BCN.html' | relative_url }}">
 
     <img src="{{ '/events-images/APS_2026.png' | relative_url }}"
-         alt="APS flyer"
+         alt="APS 2026 flyer"
          class="event-photo">
 
-    <h2 class="event-title">Collaborative Science for a Complex World:Integrating Perspectives Across Psychological Domains</h2>
+    <h2 class="event-title">
+      Collaborative Science for a Complex World: Integrating Perspectives Across Psychological Domains
+    </h2>
 
     <p class="event-subtitle">
       APS2026 · Barcelona
@@ -33,34 +52,19 @@ title: "Events"
 
   </a>
 </div>
-</p>
-
-<h2 style="margin-top: 3rem;">Last Event</h2>
-
-<div class="event-card featured">
-  <a class="event-link"
-     href="{{ '/pastevents-summary/Building_Inclusive_Computational_Skills.html' | relative_url }}">
-
-    <img src="{{ '/events-images/february_2026.png' | relative_url }}"
-         alt="Building Inclusive Computational Skills flyer"
-         class="event-photo">
-
-    <h2 class="event-title">Building Inclusive Computational Skills</h2>
-
-    <p class="event-subtitle">
-      Online panel · International Women’s Month
-    </p>
-
-    <p class="event-meta">
-      23 February 2026 · Online
-    </p>
-
-  </a>
-</div>
 
 <h2 style="margin-top: 3rem;">Past events</h2>
 
 <div class="events-grid">
+
+  <div class="event-card">
+    <a class="event-link"
+       href="{{ '/pastevents-summary/Building_Inclusive_Computational_Skills.html' | relative_url }}">
+      <h2 class="event-title">Building Inclusive Computational Skills</h2>
+      <p class="event-subtitle">Online panel · International Women’s Month</p>
+      <p class="event-meta">23 February 2026 · Online</p>
+    </a>
+  </div>
 
   <div class="event-card">
     <a class="event-link"
@@ -172,7 +176,6 @@ title: "Events"
 
 </div>
 
-
 <style>
 /* GRID */
 .events-grid {
@@ -224,7 +227,6 @@ title: "Events"
   display: block;
 }
 
-/* OPTIONAL IMAGE (for later) */
 .event-photo {
   width: 100%;
   height: 140px;
@@ -234,7 +236,6 @@ title: "Events"
   background: #f2f6fb;
 }
 
-/* TEXT */
 .event-title {
   margin: 0.2rem 0 0.4rem;
   font-size: 1.05rem;
@@ -253,7 +254,6 @@ title: "Events"
   opacity: 0.85;
 }
 
-  /* FEATURED (NEXT) EVENT */
 .event-card.featured {
   grid-column: span 3;
   padding: 2rem 2.2rem;
@@ -277,7 +277,6 @@ title: "Events"
   font-size: 1rem;
 }
 
-/* Responsive: featured event still looks good on smaller screens */
 @media (max-width: 900px) {
   .event-card.featured {
     grid-column: span 2;
