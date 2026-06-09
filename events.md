@@ -1,7 +1,3 @@
-Next events → "To Be Announced"
-APS 2026 moved to Last Event
-Building Inclusive Computational Skills moved into Past Events as the newest entry
-Removed the invalid <p><div>...</div></p> nesting.
 ---
 layout: default
 title: "Events"
