@@ -43,7 +43,7 @@ APS Immediate Past President
 While each speaker approached the topic from a different perspective, several common themes emerged throughout the discussion:
 
 <h3>Collaboration requires humility </h3>
-
+<ul>
 One of the strongest messages of the session was that successful collaboration begins with recognising that no single researcher can know everything. Interdisciplinary work often means stepping outside our areas of expertise, learning new methods, and relying on the knowledge of others.
 Panelists emphasized that collaboration requires humility, honesty, and a willingness to ask for help. Many collaborative projects fail not because of scientific disagreements, but because researchers struggle to communicate openly about expectations, limitations, and uncertainties. Building trust, understanding why each collaborator is involved, and appreciating the value that different perspectives bring to a project are essential ingredients for successful teamwork.
 The discussion also highlighted the benefits of international collaborations, which often expose researchers to different academic cultures, publication systems, and structural challenges. Such experiences can broaden our understanding of the scientific enterprise and remind us that many of the obstacles we face are shared across countries and disciplines.
