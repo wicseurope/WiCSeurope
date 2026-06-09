@@ -28,9 +28,10 @@ Bringing together perspectives from political psychology (Clara Pretus, Universi
 ## Discussant
 
 **Randi Martin**, Rice University, USA  
-APS Immediate Past President
+APS Immediate Past President and one of the co-founders of WiCS
 
 ---
+
 
 While each speaker approached the topic from a different perspective, several common themes emerged throughout the discussion.
 
