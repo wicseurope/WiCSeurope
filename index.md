@@ -74,7 +74,13 @@ If you’re interested in organizing an event or helping out the current leaders
 
 ---
 
-<h3>Upcoming Events</h3>
+### Upcoming Events
+
+To be announced!
+
+<hr>
+
+<h3>Last Event</h3>
 
 <table>
   <tr>
@@ -110,46 +116,6 @@ If you’re interested in organizing an event or helping out the current leaders
       <p>
         <a href="{{ '/pastevents-summary/APS2026BCN' | relative_url }}">
           Read more about it
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-
-<hr>
-
-<h3>Last Event</h3>
-
-<table>
-  <tr>
-    <th>Event</th>
-    <th>Details</th>
-  </tr>
-
-  <tr>
-    <td>
-      <strong>PsychoPy for Women in Cognitive Science</strong>
-    </td>
-
-    <td>
-      <img src="events-images/psychopy_2026.png"
-           alt="Psychopy for WICS+E flyer"
-           width="500">
-
-      <p>
-        <strong>
-          Collaborative workshop series · International Women’s Month
-        </strong><br>
-        March 2026
-      </p>
-
-      <p>
-        An online series of workshops to learn how to use PsychoPy.
-      </p>
-
-      <p>
-        <a href="{{ '/resources/2026_psychopyforwics' | relative_url }}">
-          All the resources
         </a>
       </p>
     </td>
