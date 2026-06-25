@@ -13,15 +13,12 @@ title: "Events"
 <h2>Next events</h2>
 
 <div class="event-card featured">
-  <div class="event-card-inner">
+    <a class="event-link"
+     href="{{ '/pastevents-summary/SEPEX2026.html' | relative_url }}">
 
-    <h2 class="event-title">To Be Announced</h2>
+    <h2 class="event-title">Leadership and career advancement in Cognitive Science</h2>
 
-    <p class="event-subtitle">
-      Details of our next WiCS+Europe event will be shared soon.
-    </p>
-
-  </div>
+  </a>
 </div>
 
 <h2 style="margin-top: 3rem;">Last Event</h2>
