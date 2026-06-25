@@ -18,11 +18,11 @@ title: "Events"
 
     <h2 class="event-title">Leadership and career advancement in Cognitive Science</h2>
      <p class="event-subtitle">
-      SEPEX2026 · Valencia
+      SEPEX-BAPS2026 · Valencia
     </p>
 
     <p class="event-meta">
-      08 Sept 2026 · 14:30 – 17:00
+      08 Sept 2026 · To be confirmed
     </p>
 
   </a>
