@@ -24,11 +24,11 @@ Teresa Bajo, University of Granada, Spain
 ## Speed mentoring & reception 
 As part of the event, we invite you to participate in the WiCS+E Speed Mentoring session, which includes a coffee reception and offers junior researchers the opportunity to connect with senior faculty to discuss various aspects of research and academic careers. Based on sign-ups, participants will be matched with one or two mentors for brief, focused conversations designed to be both meaningful and productive. The goal is to foster in-depth discussions while also encouraging connections with individuals from diverse roles and backgrounds.
 WiCS+ speed mentoring has been successfully held at major international meetings such as the Psychonomic Society, SARMAC, APS, ICPS, and ESCOP. Please note a few ground rules: 
-•	This is a one-time session (i.e., the mentor is not committing to a longer-term mentoring relationship).
-•	The mentee should come prepared with one or two specific questions to guide the session and make the most of it.
-•	The mentee should send their CV and questions to the mentor ahead of time but should not expect the mentor to have reviewed this information prior to the meeting.
-•	The information shared during the session is to be kept completely confidential.
-•	This session is open to scientists of all gender identities, and both mentors and mentees from past sessions have found it highly valuable.
+- This is a one-time session (i.e., the mentor is not committing to a longer-term mentoring relationship).
+- The mentee should come prepared with one or two specific questions to guide the session and make the most of it.
+- The mentee should send their CV and questions to the mentor ahead of time but should not expect the mentor to have reviewed this information prior to the meeting.
+- The information shared during the session is to be kept completely confidential.
+- This session is open to scientists of all gender identities, and both mentors and mentees from past sessions have found it highly valuable.
 
 <p>If you are interested in being a mentor, please complete this <a href="https://forms.gle/Xx8fZYs12Nf7zRu99">MENTOR FORM</a>.</p>
 
