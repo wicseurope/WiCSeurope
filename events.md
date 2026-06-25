@@ -17,6 +17,13 @@ title: "Events"
      href="{{ '/pastevents-summary/SEPEX2026.html' | relative_url }}">
 
     <h2 class="event-title">Leadership and career advancement in Cognitive Science</h2>
+     <p class="event-subtitle">
+      SEPEX2026 · Valencia
+    </p>
+
+    <p class="event-meta">
+      08 Sept 2026 · 14:30 – 17:00
+    </p>
 
   </a>
 </div>
