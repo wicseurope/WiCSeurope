@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "WiCS+Europe at SEPEX-BAPS2026"
+title: "WiCS+Europe at SEPEX-BAPS2026 (Valencia, Spain)"
 ---
 
 # Leadership and career advancement in Cognitive Science
