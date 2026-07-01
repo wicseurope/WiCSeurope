@@ -9,18 +9,17 @@ Everyone is welcome, and we warmly invite anyone interested in the future of the
 
 # Date: 08 - september, 2026 hour to be announced
 
-## Invited Speakers
+## Invited Speakers(to be confirmed)
 
 - Rosa Baños, University of Valencia, Spain 
 - Eva Van den Bussche KU Leuven, Belgium 
-- Juan Lupiáñez, University of Granada, Spain 
 - Olivier Luminet, University of Louvain, Belgium
 
 
 ## WiCS+Europe organizers
 
-María Jesús Maraver, University of Jaén, Spain
-Teresa Bajo, University of Granada, Spain
+**[María J. Maraver](https://wicseurope.github.io/WiCSeurope/leadershipteam-bios/MJ-Maraver)** University of Jaén, Spain
+**Teresa Bajo**, University of Granada, Spain
 
 
 ## Speed mentoring & reception 
