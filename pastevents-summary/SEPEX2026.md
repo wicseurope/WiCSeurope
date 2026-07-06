@@ -9,7 +9,7 @@ title: "WiCS+Europe at SEPEX-BAPS2026, Valencia, Spain"
 17:45-18:45  Speed mentoring & coffee break
 
 #### Free for SEPEX-BAPS attendees. Registration needed in the [conference website](https://eventos.adeit.es/142802/section/62282/xv-sepex-andamp-ii-joint-sepex-baps-meeting-2026.html)
-#### Deadline:  26 July 2026
+#### Registration modification deadline: 26 July 2026:  26 July 2026
 
 #### Panel discussion (16:45-17:45)
 ## Leadership and career advancement in Cognitive Science
