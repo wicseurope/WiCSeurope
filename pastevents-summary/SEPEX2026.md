@@ -3,13 +3,13 @@ layout: default
 title: "WiCS+Europe at SEPEX-BAPS2026, Valencia, Spain"
 ---
 ### Tuesday, 8 September 2026
-## Pre-conference workshops SEPEX-BAPS 2026
-#### Location: Facultat de Psicologia i Logopèdia, Universitat de Valencia.
-Avd. Blasco Ibáñez, 21. 46010 Valencia (metro station: Facultats)
+## Pre-conference workshop SEPEX-BAPS 2026
+#### Location: Facultat de Psicologia i Logopèdia, Universitat de Valencia
 16:45-17:45  Panel discussion
 17:45-18:45  Speed mentoring & coffee break
 
-#### Free for SEPEX-BAPS attendees. Registration needed in the [conference website](https://eventos.adeit.es/142802/detail/joint-sepex-baps-meeting-2026.html).
+#### Free for SEPEX-BAPS attendees. Registration needed in the [conference website](https://eventos.adeit.es/142802/section/62282/xv-sepex-andamp-ii-joint-sepex-baps-meeting-2026.html)
+#### Deadline:  26 July 2026
 
 #### Panel discussion (16:45-17:45)
 ## Leadership and career advancement in Cognitive Science
@@ -19,8 +19,10 @@ Everyone is welcome, and we warmly invite anyone interested in the future of the
 ## Invited Speakers (more to be confirmed)
 
 - Rosa Baños, University of Valencia, Spain 
-- Eva Van den Bussche KU Leuven, Belgium 
 - Olivier Luminet, University of Louvain, Belgium
+- Eva Van den Bussche KU Leuven, Belgium 
+- Lluís Fuentemilla, University of Barcelona, Spain
+
 
 
 ## WiCS+Europe organizers
@@ -45,7 +47,9 @@ WiCS+ speed mentoring has been successfully held at major international meetings
 
 
 All responses should be completed by Tuesday, **1st September 2026**. Note that you may wish to sign up as BOTH a mentor and a mentee. For example, a first-year professor may wish for mentoring around earning permanent positions AND may be positioned well to mentor others about navigating through the stages of the PhD program.
-WiCS+ membership is free and open to scientists of all gender identities.
+
+
+This session is public and open to everyone interested. WiCS+ membership is free and open to scientists of all gender identities.
 
 
 
