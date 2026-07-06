@@ -22,7 +22,7 @@ title: "Events"
     </p>
 
     <p class="event-meta">
-      08 Sept 2026 · To be confirmed
+      08 Sept 2026 · 16.45h - 18.45h
     </p>
 
   </a>
