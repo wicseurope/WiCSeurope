@@ -16,6 +16,10 @@ title: "Events"
     <a class="event-link"
      href="{{ '/pastevents-summary/SEPEX2026.html' | relative_url }}">
 
+    <img src="{{ '/events-images/Sepex_2026.png' | relative_url }}"
+         alt="Sepex 2026 flyer"
+         class="event-photo">
+
     <h2 class="event-title">Leadership and career advancement in Cognitive Science</h2>
      <p class="event-subtitle">
       SEPEX-BAPS2026 · Valencia
