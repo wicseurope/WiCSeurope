@@ -76,7 +76,44 @@ If you’re interested in organizing an event or helping out the current leaders
 
 ### Upcoming Events
 
-To be announced!
+<table>
+  <tr>
+    <th>Event</th>
+    <th>Details</th>
+  </tr>
+
+  <tr>
+    <td>
+      <strong>
+        Leadership and career advancement in Cognitive Science
+      </strong>
+    </td>
+
+    <td>
+      <img src="events-images/ASepex_2026.png"
+           alt="Sepex flyer"
+           width="500">
+
+      <p>
+        <strong>SEPEX-BAPS 2026 · Valencia</strong><br>
+        08.09.2026
+      </p>
+
+      <p>
+        Women in Cognitive Science Plus Europe (WiCS+E), in collaboration with the Spanish Society for Experimental Psychology (SEPEX) 
+        and the Belgian Association for Psychological Science (BAPS), is pleased to organise a pre-conference workshopat SEPEX-BAPS 2026 
+        focused on leadership and career advancement in cognitive science.
+
+      </p>
+
+      <p>
+        <a href="{{ '/pastevents-summary/SEPEX2026.md' | relative_url }}">
+          Read more about it
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 <hr>
 
