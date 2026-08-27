@@ -26,7 +26,7 @@ title: "Events"
     </p>
 
     <p class="event-meta">
-      08 Sept 2026 · 16.45h - 18.45h
+      09 Sept 2026 · 10.00h - 12.00h
     </p>
 
   </a>
