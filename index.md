@@ -96,7 +96,7 @@ If you’re interested in organizing an event or helping out the current leaders
 
       <p>
         <strong>SEPEX-BAPS 2026 · Valencia</strong><br>
-        08.09.2026
+        09.09.2026
       </p>
 
       <p>
