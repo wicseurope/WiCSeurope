@@ -16,7 +16,7 @@ title: "Events"
     <a class="event-link"
      href="{{ '/pastevents-summary/SEPEX2026.html' | relative_url }}">
 
-    <img src="{{ '/events-images/Sepex_2026.png' | relative_url }}"
+    <img src="{{ '/events-images/sepex-baps-09.09.26.png' | relative_url }}"
          alt="Sepex 2026 flyer"
          class="event-photo">
 
