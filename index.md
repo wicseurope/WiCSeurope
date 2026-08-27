@@ -90,7 +90,7 @@ If you’re interested in organizing an event or helping out the current leaders
     </td>
 
     <td>
-      <img src="events-images/Sepex_2026.png"
+      <img src="events-images//sepex-baps-09.09.26.png"
            alt="Sepex flyer"
            width="500">
 
