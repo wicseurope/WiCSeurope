@@ -76,6 +76,12 @@ If you’re interested in organizing an event or helping out the current leaders
 
 ### Upcoming Events
 
+Stay tuned, more information to come soon!
+
+<hr>
+
+<h3>Last Event</h3>
+
 <table>
   <tr>
     <th>Event</th>
@@ -108,50 +114,6 @@ If you’re interested in organizing an event or helping out the current leaders
 
       <p>
         <a href="{{ '/pastevents-summary/SEPEX2026.md' | relative_url }}">
-          Read more about it
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-
-<hr>
-
-<h3>Last Event</h3>
-
-<table>
-  <tr>
-    <th>Event</th>
-    <th>Details</th>
-  </tr>
-
-  <tr>
-    <td>
-      <strong>
-        Collaborative Science for a Complex World:
-        Integrating Perspectives Across Psychological Domains
-      </strong>
-    </td>
-
-    <td>
-      <img src="events-images/APS_2026.png"
-           alt="APS flyer"
-           width="500">
-
-      <p>
-        <strong>APS2026 · Barcelona</strong><br>
-        28.05.2026
-      </p>
-
-      <p>
-        This WiCS+E session will open the discussion on how collaboration
-        across political psychology, cognitive science, occupational health,
-        and computational social science can strengthen theory,
-        methodological rigor, and real-world impact.
-      </p>
-
-      <p>
-        <a href="{{ '/pastevents-summary/APS2026BCN' | relative_url }}">
           Read more about it
         </a>
       </p>
