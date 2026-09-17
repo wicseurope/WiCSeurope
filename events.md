@@ -12,6 +12,10 @@ title: "Events"
 
 <h2>Next events</h2>
 
+<p>We don't have a new event confirmed just yet — stay tuned, more information to come soon!</p>
+
+<h2 style="margin-top: 3rem;">Last Event</h2>
+
 <div class="event-card featured">
     <a class="event-link"
      href="{{ '/pastevents-summary/SEPEX2026.html' | relative_url }}">
@@ -32,34 +36,20 @@ title: "Events"
   </a>
 </div>
 
-<h2 style="margin-top: 3rem;">Last Event</h2>
-
-<div class="event-card featured">
-  <a class="event-link"
-     href="{{ '/pastevents-summary/APS2026BCN.html' | relative_url }}">
-
-    <img src="{{ '/events-images/APS_2026.png' | relative_url }}"
-         alt="APS 2026 flyer"
-         class="event-photo">
-
-    <h2 class="event-title">
-      Collaborative Science for a Complex World: Integrating Perspectives Across Psychological Domains
-    </h2>
-
-    <p class="event-subtitle">
-      APS2026 · Barcelona
-    </p>
-
-    <p class="event-meta">
-      28 May 2026 · 15:00 – 16:50
-    </p>
-
-  </a>
-</div>
-
 <h2 style="margin-top: 3rem;">Past events</h2>
 
 <div class="events-grid">
+
+  <div class="event-card">
+    <a class="event-link"
+       href="{{ '/pastevents-summary/APS2026BCN.html' | relative_url }}">
+      <h2 class="event-title">
+        Collaborative Science for a Complex World: Integrating Perspectives Across Psychological Domains
+      </h2>
+      <p class="event-subtitle">APS2026 · Barcelona</p>
+      <p class="event-meta">28 May 2026 · 15:00 – 16:50</p>
+    </a>
+  </div>
 
   <div class="event-card">
     <a class="event-link"
