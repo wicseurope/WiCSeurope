@@ -8,7 +8,7 @@
 
 ---
 
-### 💜 Every connection tells a story. Help us understand yours!
+###  Every connection tells a story. Help us understand yours!
 
 **Have you ever participated in a WiCS+ event or activity?**
 
@@ -53,7 +53,7 @@ We invite anyone who has ever participated in a WiCS+ event or activity to compl
 
 <div align="center">
 
-### 💜 Be part of the WiCS+ story!
+###  Be part of the WiCS+ story!
 
 [**👉 CLICK HERE TO PARTICIPATE**](https://test.uib.es/enquestes/index.php/211693?lang=en)
 
@@ -77,7 +77,7 @@ Our research has been pre-registered on Zenodo to promote transparency and open 
 
 <div align="center">
 
-### 💜 Thank you for being part of the WiCS+ community!
+###  Thank you for being part of the WiCS+ community!
 
 *Together, we can document the connections, collaborations, and opportunities that have shaped 25 years of WiCS+.*
 
