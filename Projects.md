@@ -1,92 +1,396 @@
+
 ---
 layout: default
 title: "Projects"
 ---
 
-<div align="center">
+<style>
+.wics-project {
+  max-width: 920px;
+  margin: 0 auto;
+  padding: 20px 15px 55px;
+  color: #303044;
+  line-height: 1.75;
+  font-family: inherit;
+}
 
-# 🌍 WiCS+: Mapping a Global Network and Its Impact
+.wics-project * {
+  box-sizing: border-box;
+}
 
-## **25 years of connections, mentorship, and opportunities in cognitive science**
+.wics-project .hero {
+  text-align: center;
+  padding: 48px 28px;
+  background: linear-gradient(135deg, #f4effa, #faf7fc);
+  border-radius: 18px;
+  margin-bottom: 42px;
+}
 
----
+.wics-project .eyebrow {
+  color: #7952a0;
+  font-weight: 700;
+  font-size: 14px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  margin-bottom: 14px;
+}
 
-###  Every connection tells a story. Help us understand yours!
+.wics-project h1 {
+  font-size: clamp(29px, 5vw, 42px);
+  line-height: 1.2;
+  color: #56357e;
+  margin: 0 0 20px;
+}
 
-**Have you ever participated in a WiCS+ event or activity?**
+.wics-project .subtitle {
+  font-size: 19px;
+  color: #666078;
+  margin: 0 auto 28px;
+  max-width: 660px;
+}
 
-We would love to hear from you!
+.wics-project h2 {
+  font-size: 25px;
+  color: #56357e;
+  margin: 0 0 20px;
+}
 
-[**📝 TAKE PART IN THE SURVEY**](https://test.uib.es/enquestes/index.php/211693?lang=en)
+.wics-project h3 {
+  font-size: 18px;
+  color: #56357e;
+  margin: 0 0 10px;
+}
 
-⏱️ **Approximately 20 minutes** · 🌐 **Open to past and current WiCS+ participants**
+.wics-project p {
+  margin: 0 0 18px;
+}
 
-</div>
+.wics-project .hero-message {
+  font-size: 19px;
+  font-weight: 600;
+  color: #56357e;
+  margin-bottom: 18px;
+}
 
----
+.wics-project .button {
+  display: inline-block;
+  background: #68469a;
+  color: #ffffff !important;
+  padding: 15px 30px;
+  border-radius: 9px;
+  font-size: 16px;
+  font-weight: 700;
+  text-decoration: none !important;
+  margin: 12px 0;
+  transition: background 0.2s ease;
+}
 
-## ✨ About the Project
+.wics-project .button:hover,
+.wics-project .button:focus {
+  background: #493077;
+  color: white !important;
+}
 
-For over **25 years**, **Women in Cognitive Science (WiCS+)** and its regional chapters, **WiCS+Europe** and **WiCSCanada+**, have brought researchers together through conferences, mentoring initiatives, networking events, workshops, and professional development activities.
+.wics-project .small-note {
+  font-size: 14px;
+  color: #686477;
+}
 
-But what happens beyond these events?
+.wics-project .section {
+  margin-bottom: 46px;
+}
 
-> **How have the connections made through WiCS+ shaped researchers' careers, collaborations, and professional opportunities?**
+.wics-project .quote {
+  border-left: 4px solid #9473bd;
+  background: #f8f5fb;
+  padding: 20px 24px;
+  border-radius: 0 10px 10px 0;
+  font-size: 19px;
+  font-weight: 600;
+  color: #56357e;
+  margin: 25px 0;
+}
 
-This research project aims to explore the global WiCS+ network, understand the professional relationships it has fostered, and document its impact on the cognitive science community.
+.wics-project .cards {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 18px;
+}
 
----
+.wics-project .card {
+  padding: 25px;
+  background: #ffffff;
+  border: 1px solid #e6ddef;
+  border-radius: 14px;
+  box-shadow: 0 3px 12px rgba(70, 40, 100, 0.05);
+}
 
-## 🔍 What Are We Investigating?
+.wics-project .card-icon {
+  font-size: 28px;
+  margin-bottom: 12px;
+}
 
-| | Research focus |
-|:---:|---|
-| 🤝 | **Professional Connections** — Relationships and collaborations fostered through WiCS+ |
-| 🌱 | **Mentorship** — Mentoring experiences and professional support within the network |
-| 🚀 | **Career Development** — The influence of WiCS+ participation on career trajectories and opportunities |
-| 🌐 | **Global Community** — How WiCS+ has connected researchers across regions and over time |
+.wics-project .card p {
+  margin: 0;
+  font-size: 15px;
+  color: #5d5a67;
+}
 
----
+.wics-project .participate {
+  text-align: center;
+  background: #f5f0fa;
+  padding: 38px 26px;
+  border-radius: 16px;
+}
 
-## 📝 Participate in Our Study
+.wics-project .participate p {
+  max-width: 660px;
+  margin: 0 auto 18px;
+}
 
-Whether you attended **one event or have been involved for years**, your experience matters.
+.wics-project .footer-note {
+  text-align: center;
+  padding: 28px 12px;
+  border-top: 1px solid #e7deef;
+  color: #686078;
+}
 
-We invite anyone who has ever participated in a WiCS+ event or activity to complete a short online survey about their involvement and the professional connections they have made through the network.
+.wics-project .footer-note strong {
+  color: #68469a;
+}
 
-<div align="center">
+@media (max-width: 650px) {
+  .wics-project .cards {
+    grid-template-columns: 1fr;
+  }
 
-###  Be part of the WiCS+ story!
+  .wics-project .hero {
+    padding: 35px 20px;
+  }
 
-[**👉 CLICK HERE TO PARTICIPATE**](https://test.uib.es/enquestes/index.php/211693?lang=en)
+  .wics-project .button {
+    width: 100%;
+    max-width: 340px;
+  }
+}
+</style>
 
-**Estimated completion time: 20 minutes**
+<main class="wics-project">
 
-*Your participation will help us better understand the impact of WiCS+ over the past 25 years.*
+  <section class="hero">
 
-</div>
+    <div class="eyebrow">
+      Ongoing Research Project
+    </div>
 
----
+    <h1>
+      WiCS+: Mapping a Global Network
+      and Its Impact
+    </h1>
 
-## 📖 Open Science & Study Pre-registration
+    <p class="subtitle">
+      25 years of connections, mentorship,
+      and opportunities in cognitive science.
+    </p>
 
-This study is part of a systematic effort to evaluate the impact of WiCS+ since its foundation.
+    <p class="hero-message">
+     Every connection tells a story.
+      Help us understand yours!
+    </p>
 
-Our research has been pre-registered on Zenodo to promote transparency and open research practices.
+    <p>
+      Have you ever participated in a
+      WiCS+ event or activity?
+      <br>
+      <strong>We would love to hear from you!</strong>
+    </p>
 
-🔗 **[Access the Study Pre-registration](https://doi.org/10.5281/zenodo.23378838)**
+    <a class="button"
+       href="https://test.uib.es/enquestes/index.php/211693?lang=en"
+       target="_blank"
+       rel="noopener noreferrer">
+       📝 TAKE PART IN THE SURVEY
+    </a>
 
----
+    <p class="small-note">
+      ⏱️ Approximately 20 minutes
+      <br>
+      🌐 Open to past and current WiCS+ participants
+    </p>
 
-<div align="center">
+  </section>
 
-###  Thank you for being part of the WiCS+ community!
+  <section class="section">
 
-*Together, we can document the connections, collaborations, and opportunities that have shaped 25 years of WiCS+.*
+    <h2>✨ About the Project</h2>
 
-**Connect · Mentor · Collaborate · Grow**
+    <p>
+      For over <strong>25 years</strong>,
+      <strong>Women in Cognitive Science (WiCS+)</strong>
+      and its regional chapters,
+      <strong>WiCS+Europe</strong> and
+      <strong>WiCSCanada+</strong>,
+      have brought researchers together through
+      conferences, mentoring initiatives,
+      networking events, workshops, and
+      professional development activities.
+    </p>
 
-</div>
+    <p>But what happens beyond these events?</p>
+
+    <div class="quote">
+      How have the connections made through WiCS+
+      shaped researchers' careers, collaborations,
+      and professional opportunities?
+    </div>
+
+    <p>
+      This research project aims to explore the
+      global WiCS+ network, understand the
+      professional relationships it has fostered,
+      and document its impact on the cognitive
+      science community.
+    </p>
+
+  </section>
+
+  <section class="section">
+
+    <h2>🔍 What Are We Investigating?</h2>
+
+    <div class="cards">
+
+      <div class="card">
+        <div class="card-icon">🤝</div>
+        <h3>Professional Connections</h3>
+        <p>
+          Relationships and collaborations
+          fostered through WiCS+.
+        </p>
+      </div>
+
+      <div class="card">
+        <div class="card-icon">🌱</div>
+        <h3>Mentorship</h3>
+        <p>
+          Mentoring experiences and professional
+          support within the network.
+        </p>
+      </div>
+
+      <div class="card">
+        <div class="card-icon">🚀</div>
+        <h3>Career Development</h3>
+        <p>
+          The influence of WiCS+ participation
+          on career trajectories and opportunities.
+        </p>
+      </div>
+
+      <div class="card">
+        <div class="card-icon">🌐</div>
+        <h3>Global Community</h3>
+        <p>
+          How WiCS+ has connected researchers
+          across regions and over time.
+        </p>
+      </div>
+
+    </div>
+
+  </section>
+
+  <section class="section participate">
+
+    <h2>📝 Participate in Our Study</h2>
+
+    <p>
+      Whether you attended
+      <strong>one event or have been involved for years</strong>,
+      your experience matters.
+    </p>
+
+    <p>
+      We invite anyone who has ever participated
+      in a WiCS+ event or activity to complete
+      an online survey about their involvement
+      and the professional connections they
+      have made through the network.
+    </p>
+
+    <h3> Be part of the WiCS+ story!</h3>
+
+    <a class="button"
+       href="https://test.uib.es/enquestes/index.php/211693?lang=en"
+       target="_blank"
+       rel="noopener noreferrer">
+       👉 CLICK HERE TO PARTICIPATE
+    </a>
+
+    <p class="small-note">
+      Estimated completion time: 20 minutes
+    </p>
+
+    <p>
+      <em>
+        Your participation will help us better
+        understand the impact of WiCS+
+        over the past 25 years.
+      </em>
+    </p>
+
+  </section>
+
+  <section class="section">
+
+    <h2>📖 Open Science & Study Pre-registration</h2>
+
+    <p>
+      This study is part of a systematic effort
+      to evaluate the impact of WiCS+
+      since its foundation.
+    </p>
+
+    <p>
+      Our research has been pre-registered
+      on Zenodo to promote transparency
+      and open research practices.
+    </p>
+
+    <p>
+      🔗
+      <a href="https://doi.org/10.5281/zenodo.23378838"
+         target="_blank"
+         rel="noopener noreferrer">
+        <strong>Access the Study Pre-registration</strong>
+      </a>
+    </p>
+
+  </section>
+
+  <footer class="footer-note">
+
+    <h3>
+       Thank you for being part of
+      the WiCS+ community!
+    </h3>
+
+    <p>
+      <em>
+        Together, we can document the connections,
+        collaborations, and opportunities that
+        have shaped 25 years of WiCS+.
+      </em>
+    </p>
+
+    <strong>
+      Connect · Mentor · Collaborate · Grow
+    </strong>
+
+  </footer>
+
+</main>
+
 
 
 
