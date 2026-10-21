@@ -4,7 +4,6 @@ title: "Projects"
 ---
 
 <style>
-<style>
 .wics-project {
   max-width: 920px;
   margin: 0 auto;
