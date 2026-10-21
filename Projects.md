@@ -1,10 +1,9 @@
 
 <div align="center">
 
-# 🌍 WiCS+ at 25
-### Mapping a Global Network and Its Impact
+# 🌍 WiCS+: Mapping a Global Network and Its Impact
 
-**25 years of connections, mentorship, and opportunities in cognitive science**
+## **25 years of connections, mentorship, and opportunities in cognitive science**
 
 ---
 
