@@ -1,9 +1,4 @@
 
----
-layout: default
-title: "Projects"
----
-
 <style>
 .wics-project {
   max-width: 920px;
