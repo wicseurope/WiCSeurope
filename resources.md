@@ -5,23 +5,29 @@ title: "Resources"
 
 <h1>Resources</h1>
 
-<h2>Ongoing Writing groups at the WiCS+ Network </h2>
+<h2>Ongoing Writing groups at the WiCS+ Network</h2>
 <p>
-The Spring 2026 writing groups will be open to all on a drop in basis starting February 1 - May 15, 2026. 
-Meetings will be held three different days and three times each week. You are welcome to join as often as you like, but there is no commitment. 
+The Fall 2026 writing groups will begin on September 15, 2026. These drop-in sessions are open to everyone, with no prior commitment required. You are welcome to join as frequently or infrequently as your schedule allows.
+</p>
+
+<p>
+Sessions provide an encouraging environment to share your writing goals, followed by quiet, camera-off writing time with accountability.
+</p>
+
 <ul>
-<li>Tuesdays 2-4 pm EST / 20:00-22:00 CEST</li>
-<li>Wednesdays 11-1 pm EST / 17:00-19:00 CEST</li>
-<li>Thursdays 10-12 noon EST / 16:00-18:00 CEST</li>
+  <li>Mondays 10 am–12 noon ET / 16:00–18:00 CEST</li>
+  <li>Wednesdays 1–3 pm ET / 19:00–21:00 CEST</li>
+  <li>Fridays 10 am–12 noon ET / 16:00–18:00 CEST</li>
+  <li>Fridays 1–3 pm ET / 19:00–21:00 CEST</li>
 </ul>
 
-You can sign-up <a href="https://docs.google.com/forms/d/e/1FAIpQLScnotepQuc8T7RP6wCXWU9ixTHRF1AiJkM5lPCNa2Yq_fUJvw/viewform">here</a>
+<p>
+You can sign up <a href="https://docs.google.com/forms/d/e/1FAIpQLScnotepQuc8T7RP6wCXWU9ixTHRF1AiJkM5lPCNa2Yq_fUJvw/viewform">here</a>.
 </p>
 
 <p>
-This is a regular activity in the network, stay tuned for next editions.
+This is a regular activity in the network. Stay tuned for future editions.
 </p>
-
 
 <h2>Events' Resources </h2>
 <p>
