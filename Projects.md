@@ -221,7 +221,7 @@ title: "Projects"
 
   <section class="section">
 
-    <h2>✨ About the Project</h2>
+    <h2> About the project</h2>
 
     <p>
       For over <strong>25 years</strong>,
@@ -255,7 +255,7 @@ title: "Projects"
 
   <section class="section">
 
-    <h2>🔍 What Are We Investigating?</h2>
+    <h2> What are we investigating?</h2>
 
     <div class="cards">
 
@@ -301,7 +301,7 @@ title: "Projects"
 
   <section class="section participate">
 
-    <h2>📝 Participate in Our Study</h2>
+    <h2>📝 Participate in our study</h2>
 
     <p>
       Whether you attended
@@ -342,7 +342,7 @@ title: "Projects"
 
   <section class="section">
 
-    <h2>📖 Open Science & Study Pre-registration</h2>
+    <h2>📖 Open Science & study pre-registration</h2>
 
     <p>
       This study is part of a systematic effort
