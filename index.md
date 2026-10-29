@@ -69,7 +69,7 @@ If you’re interested in organizing an event or helping out the current leaders
 * **Email:** [wics.europe@gmail.com](mailto:wics.europe@gmail.com)
 * **Facebook:** [https://www.facebook.com/WiCSEurope](https://www.facebook.com/WiCSEurope)
 * **Bluesky:** [https://bsky.app/profile/wicseurope.bsky.social](https://bsky.app/profile/wicseurope.bsky.social)
-* **LinkedIn:** [https://www.linkedin.com/company/108927366/](https://www.linkedin.com/company/108927366/)
+* **LinkedIn:** [[https://www.linkedin.com/company/108927366/](https://www.linkedin.com/company/wics-e/?viewAsMember=true)](https://www.linkedin.com/company/wics-e/?viewAsMember=true)
 
 
 ---
